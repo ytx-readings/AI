@@ -14,3 +14,7 @@
 * [_The ChatGPT Millionaire: Leveraging on Artificial Intelligence to Earn Passive Income Online as a Business owner, 9-5 worker, Freelancer… and end your financial incapabilities_](./books/ChatGPT/The%20ChatGPT%20Millionaire%20Leveraging%20on%20Artificial%20Intelligence%20to%20Earn%20Passive%20Income%20Online%20as%20a%20Business%20owner,%209-5%20worker,...%20(Nathaniel%20Jon)%20(Z-Library).epub)
 * [_The ChatGPT Millionaire's Handbook: Unlocking Wealth Through AI Automation_](./books/ChatGPT/The%20ChatGPT%20Millionaires%20Handbook%20Unlocking%20Wealth%20Through%20Ai%20Automation%20(Logan%20Rivers)%20(Z-Library).epub)
 * [_What Is ChatGPT Doing… And Why Does It Work_](./books/ChatGPT/What%20Is%20ChatGPT%20Doing%20...%20And%20Why%20Does%20It%20Work%20(Stephen%20Wolfram)%20(Z-Library).epub)
+
+## Machine Learning
+
+* [_Hands-On Machine Learning with Scikit-Learn and TensorFlow_](./books/machine%20learning/Hands_On_Machine_Learning_with_Scikit_Learn_and_TensorFlow.pdf)
