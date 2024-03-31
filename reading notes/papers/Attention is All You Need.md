@@ -14,6 +14,22 @@
 
 ## Model Architecture
 
+1. **Encoder-Decoder Architecture**
+    * **Encoder**: The encoder maps an input sequence of symbol representations $(x_1, \dots, x_n)$ to a sequence of continuous representations $z = (z_1, \dots, z_n)$.
+    * **Decoder**: Given $z$, the decoder then generates an output sequence $(y_1, \dots, y_m)$ of symbols one element at a time.
+    * At each step the model is _auto-regressive_, consuming the previously generated symbols as additional input when generating the next.
+2. **Encoder and Decoder Stacks**
+    * **Encoder**: Has a stack of $N = 6$ identical layers.
+        * Each layer has two sub-layers:
+            1. a multi-head self-attention mechanism;
+            2. a simple, position-wise fully connected feed-forward network.
+        * Output of each sub-layer: $\text{LayerNorm}(x + \text{Sublayer}(x))$
+        * To facilitate these residual connections, all sub-layers in the model, as well as the embedding layers, produce outputs of dimension $d_\text{model} = 512$.
+    * **Decoder**: Also has a stack of $N = 6$ identical layers.
+        * In addition to the two sub-layers in each encoder layer, the decoder inserts a _third sub-layer_, which performs multi-head attention over the output of the encoder stack.
+        * Similar to the encoder, we employ residual connections around each of the sub-layers, followed by layer normalization. We also modify the self-attention sub-layer in the decoder stack to prevent positions from attending to subsequent positions.
+        * This masking, combined with fact that the output embeddings are offset by one position, ensures that the predictions for position $i$ can depend only on the known outputs at positions less than $i$.
+
 ![Transformer model architecture](../images/Attention%20is%20All%20You%20Need/transformer%20architecture.png)
 
 ![Scaled dot-product attention](../images/Attention%20is%20All%20You%20Need/scaled%20dot-product%20attention.png)
