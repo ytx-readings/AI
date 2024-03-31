@@ -53,9 +53,9 @@
             $$\text{MultiHead}(Q, K, V) = \text{Concat}(\text{head}_1, \dots, \text{head}_h)W^O \\ \text{where } \text{head}_i = \text{Attention}(QW_i^Q , KW_i^K , VW_i^V)$$
 
             * Projections:
-                * $W_i^Q \in \R^{d_{model} \times d_k}$
-                * $W_i^K \in \R^{d_{model} \times d_k}$
-                * $W_i^V \in \R^{d_{model} \times d_v}$
+                * $W_i^Q \in \mathbb{R}^{d_{model} \times d_k}$
+                * $W_i^K \in \mathbb{R}^{d_{model} \times d_k}$
+                * $W_i^V \in \mathbb{R}^{d_{model} \times d_v}$
         * In this work we employ $h = 8$ parallel attention layers, or heads. For each of these we use $d_k = d_v = d_{\text{model}}/h = 64$. Due to the reduced dimension of each head, the total computational cost is similar to that of single-head attention with full dimensionality.
     * **Applications of Attention in our model**:
         * _In **"encoder-decoder attention" layers**, the queries come from the previous decoder layer, and the memory keys and values come from the output of the encoder._ This allows every position in the decoder to _attend over all positions in the input sequence_. This mimics the typical encoder-decoder attention mechanisms in sequence-to-sequence models.
