@@ -61,6 +61,22 @@
         * _In **"encoder-decoder attention" layers**, the queries come from the previous decoder layer, and the memory keys and values come from the output of the encoder._ This allows every position in the decoder to _attend over all positions in the input sequence_. This mimics the typical encoder-decoder attention mechanisms in sequence-to-sequence models.
         * The **encoder** contains **self-attention layers**. In a self-attention layer all of the keys, values and queries come from the same place, in this case, the output of the previous layer in the encoder. Each position in the encoder can _attend to all positions in the previous layer of the encoder_.
         * Similarly, **self-attention layers** in the **decoder** allow each position in the decoder to _attend to all positions in the decoder up to and including that position_. We need to prevent leftward information flow in the decoder to preserve the auto-regressive property. We implement this inside of scaled dot-product attention by masking out (setting to $-\infty$) all values in the input of the softmax which correspond to illegal connections.
+4. **Position-wise Feed-Forward Networks**
+    * In addition to attention sub-layers, each of the layers in our encoder and decoder contains a _fully connected feed-forward network_, which is applied to each position separately and identically. This consists of two linear transformations with a ReLU activation in between.
+
+        $$\text{FFN}(x) = \max(0, xW_1 + b_1)W_2 + b_2$$
+    * While the linear transformations are the same across different positions, they use different parameters from layer to layer. Another way of describing this is as two convolutions with kernel size 1. The dimensionality of input and output is $d_\text{model} = 512$, and the inner-layer has dimensionality $d_{ff} = 2048$.
+5. **Embeddings and Softmax**
+    * We use _learned embeddings_ to convert the input tokens and output tokens to vectors of dimension $d_{\text{model}}$.
+    * We also use the usual learned linear transformation and softmax function to convert the decoder output to predicted next-token probabilities.
+    * In our model, we share the same weight matrix between the two embedding layers and the pre-softmax linear transformation.
+    * In the embedding layers, we multiply those weights by $\sqrt{d_{\text{model}}}$.
+6. **Positional Encoding**
+    * Since our model contains _no recurrence_ and _no convolution_, in order for the model to make use of the order of the sequence, we must inject some information about the relative or absolute position of the tokens in the sequence.
+    * To this end, we add "positional encodings" to the input embeddings at the bottoms of the encoder and decoder stacks. The positional encodings have the same dimension $d_{\text{model}}$ as the embeddings, so that the two can be summed.
+        * There are many choices of positional encodings, learned and fixed. In this work, we use sine and cosine functions of different frequencies.
+
+            $$\text{PE}(pos, 2i) = \sin(pos/10000^{2i/d_{\text{model}}}) \\ \text{PE}(pos, 2i+1) = \cos(pos/10000^{2i/d_{\text{model}}})$$
 
 ![Transformer model architecture](../images/Attention%20is%20All%20You%20Need/transformer%20architecture.png)
 
