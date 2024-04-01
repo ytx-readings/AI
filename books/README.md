@@ -15,6 +15,10 @@
 * [_The ChatGPT Millionaire's Handbook: Unlocking Wealth Through AI Automation_](./ChatGPT/The%20ChatGPT%20Millionaires%20Handbook%20Unlocking%20Wealth%20Through%20Ai%20Automation%20(Logan%20Rivers)%20(Z-Library).epub)
 * [_What Is ChatGPT Doing… And Why Does It Work_](./ChatGPT/What%20Is%20ChatGPT%20Doing%20...%20And%20Why%20Does%20It%20Work%20(Stephen%20Wolfram)%20(Z-Library).epub)
 
+## [Deep Learning](./deep%20learning/)
+
+* [_Deep Learning_](./deep%20learning/DeepLearningBook.pdf)
+
 ## [Intro to AI](./intro/)
 
 * [_Artificial Intelligence: A Guide for Thinking Humans_](./intro/dokumen.pub_artificial-intelligence-a-guide-for-thinking-humans-978-0374257835.epub)
