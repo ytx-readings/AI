@@ -18,6 +18,7 @@
 ## [Deep Learning](./deep%20learning/)
 
 * [_Deep Learning_](./deep%20learning/DeepLearningBook.pdf)
+* [_Introduction to Deep Learning_](./deep%20learning/Introduction%20to%20Deep%20Learning%20(Eugene%20Charniak)%20(Z-Library).pdf)
 
 ## [Intro to AI](./intro/)
 
