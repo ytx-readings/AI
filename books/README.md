@@ -18,7 +18,9 @@
 ## [Deep Learning](./deep%20learning/)
 
 * [_Deep Learning_](./deep%20learning/DeepLearningBook.pdf)
+* [_Deep Learning for Computer Vision_](./deep%20learning/Deep%20Learning%20for%20Computer%20Vision.pdf)
 * [_Introduction to Deep Learning_](./deep%20learning/Introduction%20to%20Deep%20Learning%20(Eugene%20Charniak)%20(Z-Library).pdf)
+* [_Inside Deep Learning_](./deep%20learning/Inside%20Deep%20Learning%20Math,%20Algorithms,%20Models%20(Final%20Release)%20(Edward%20Raff)%20(Z-Library).pdf)
 
 ## [Intro to AI](./intro/)
 
