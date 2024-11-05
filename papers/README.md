@@ -3,6 +3,8 @@
 ## [LLM](./LLM/)
 
 * [DeepSeek-Coder: When the Large Language Model Meets Programming &ndash; The Rise of Code Intelligence](./LLM/DeepSeek-Coder.pdf)
+* [Efficient Training of Language Models to Fill in the Middle](./LLM/Efficient%20Training%20of%20Language%20Models%20to%20Fill%20in%20the%20Middle.pdf)
+* [Evaluation of LLMs on Syntax-Aware Code Fill-in-the-Middle Tasks](./LLM/Evaluation%20of%20LLMs%20on%20Syntax-Aware%20Code%20Fill-in-the-Middle%20Tasks.pdf)
 * [LLM-Eval: Unified Multi-Dimensional Automatic Evaluation for Open-Domain Conversations with Large Language Models](./LLM/LLM-Eval.pdf)
 
 ## [Transformer Model](./transformer%20model/)
