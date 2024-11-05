@@ -2,6 +2,7 @@
 
 ## [LLM](./LLM/)
 
+* [DeepSeek-Coder: When the Large Language Model Meets Programming &ndash; The Rise of Code Intelligence](./LLM/DeepSeek-Coder.pdf)
 * [LLM-Eval: Unified Multi-Dimensional Automatic Evaluation for Open-Domain Conversations with Large Language Models](./LLM/LLM-Eval.pdf)
 
 ## [Transformer Model](./transformer%20model/)
