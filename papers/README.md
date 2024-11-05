@@ -2,6 +2,7 @@
 
 ## [LLM](./LLM/)
 
+* [CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model](./LLM/CodeFuse-13B.pdf)
 * [DeepSeek-Coder: When the Large Language Model Meets Programming &ndash; The Rise of Code Intelligence](./LLM/DeepSeek-Coder.pdf)
 * [DemoCraft: Using In-Context Learning to Improve Code Generation in Large Language Models](./LLM/DemoCraft.pdf)
 * [Efficient Training of Language Models to Fill in the Middle](./LLM/Efficient%20Training%20of%20Language%20Models%20to%20Fill%20in%20the%20Middle.pdf)
