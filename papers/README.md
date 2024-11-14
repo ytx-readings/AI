@@ -10,6 +10,7 @@
 * [InterTrans: Leveraging Transitive Intermediate Translations to Enhance LLM-based Code Translation](./LLM/InterTrans.pdf)
 * [LLM-Eval: Unified Multi-Dimensional Automatic Evaluation for Open-Domain Conversations with Large Language Models](./LLM/LLM-Eval.pdf)
 * [Qwen2.5-Coder Technical Report](./LLM/Qwen2.5-Coder%20Technical%20Report.pdf)
+* [SGLang: Efficient Execution of Structured Language Model Programs](./LLM/SGLang.pdf)
 
 ## [Transformer Model](./transformer%20model/)
 
