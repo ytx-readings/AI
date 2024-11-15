@@ -36,4 +36,5 @@
 * [_Foundations of Machine Learning_](./machine%20learning/Foundations%20of%20Machine%20Learning,%20second%20edition%20(Mehryar%20Mohri,%20Afshin%20Rostamizadeh%20etc.)%20(Z-Library).pdf)
 * [_Hands-On Machine Learning with Scikit-Learn and TensorFlow_](./machine%20learning/Hands_On_Machine_Learning_with_Scikit_Learn_and_TensorFlow.pdf)
 * [_Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_](./machine%20learning/Hands-On_Machine_Learning_with_Scikit-Learn-Keras-and-TensorFlow-2nd-Edition-Aurelien-Geron.pdf)
+* [_Machine Learning Yearning_](./machine%20learning/andrew-ng-machine-learning-yearning.pdf)
 * [_Practical Machine Learning in JavaScript: TensorFlow.js for Web Developers_](./machine%20learning/Practical%20Machine%20Learning%20in%20JavaScript%20TensorFlow.js%20for%20Web%20Developers%20(Charlie%20Gerard)%20(Z-Library).pdf)
