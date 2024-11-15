@@ -1,5 +1,9 @@
 # AI Books
 
+## [Career development](./career%20development/)
+
+* [_How to Build Your Career in AI_](./career%20development/eBook-How-to-Build-a-Career-in-AI.pdf)
+
 ## [ChatGPT](./ChatGPT/)
 
 * [_ChatGPT for Dummies_](./ChatGPT/ChatGPT%20For%20Dummies%20(Pam%20Baker)%20(Z-Library).pdf)
