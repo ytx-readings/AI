@@ -21,7 +21,8 @@
 
 ## [Computer Vision](./computer%20vision/)
 
-* [_Foundations of Computer Vision_](./computer%20vision/Foundations%20of%20Computer%20Vision%20(Antonio%20Torralba,%20Phillip%20Isola%20etc.)%20(Z-Library).epub)
+* [_Foundations of Computer Vision_ (Peters)](./computer%20vision/Foundations%20of%20Computer%20Vision%20(James%20F.%20Peters).pdf)
+* [_Foundations of Computer Vision_ (Torralba, Isola, etc.)](./computer%20vision/Foundations%20of%20Computer%20Vision%20(Antonio%20Torralba,%20Phillip%20Isola%20etc.)%20(Z-Library).epub)
 
 ## [Deep Learning](./deep%20learning/)
 
