@@ -3,12 +3,14 @@
 ## [LLM](./LLM/)
 
 * [CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model](./LLM/CodeFuse-13B.pdf)
+* [CRUXEval-X: A Benchmark for Multilingual Code Reasoning, Understanding and Execution](./LLM/CRUXEval-X.pdf)
 * [DeepSeek-Coder: When the Large Language Model Meets Programming &ndash; The Rise of Code Intelligence](./LLM/DeepSeek-Coder.pdf)
 * [DemoCraft: Using In-Context Learning to Improve Code Generation in Large Language Models](./LLM/DemoCraft.pdf)
 * [Efficient Training of Language Models to Fill in the Middle](./LLM/Efficient%20Training%20of%20Language%20Models%20to%20Fill%20in%20the%20Middle.pdf)
 * [Evaluation of LLMs on Syntax-Aware Code Fill-in-the-Middle Tasks](./LLM/Evaluation%20of%20LLMs%20on%20Syntax-Aware%20Code%20Fill-in-the-Middle%20Tasks.pdf)
 * [InterTrans: Leveraging Transitive Intermediate Translations to Enhance LLM-based Code Translation](./LLM/InterTrans.pdf)
 * [LLM-Eval: Unified Multi-Dimensional Automatic Evaluation for Open-Domain Conversations with Large Language Models](./LLM/LLM-Eval.pdf)
+* [McEval: Massively Multilingual Code Evaluation](./LLM/McEval.pdf)
 * [Qwen2.5-Coder Technical Report](./LLM/Qwen2.5-Coder%20Technical%20Report.pdf)
 * [SGLang: Efficient Execution of Structured Language Model Programs](./LLM/SGLang.pdf)
 
