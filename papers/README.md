@@ -2,6 +2,7 @@
 
 ## [LLM](./LLM/)
 
+* [CMMLU: Measuring massive multitask language understanding in Chinese](./LLM/CMMLU.pdf)
 * [CodeFuse-13B: A Pretrained Multi-lingual Code Large Language Model](./LLM/CodeFuse-13B.pdf)
 * [CRUXEval-X: A Benchmark for Multilingual Code Reasoning, Understanding and Execution](./LLM/CRUXEval-X.pdf)
 * [DeepSeek-Coder: When the Large Language Model Meets Programming &ndash; The Rise of Code Intelligence](./LLM/DeepSeek-Coder.pdf)
