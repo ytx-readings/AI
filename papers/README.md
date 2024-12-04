@@ -12,6 +12,7 @@
 * [InterTrans: Leveraging Transitive Intermediate Translations to Enhance LLM-based Code Translation](./LLM/InterTrans.pdf)
 * [LLM-Eval: Unified Multi-Dimensional Automatic Evaluation for Open-Domain Conversations with Large Language Models](./LLM/LLM-Eval.pdf)
 * [McEval: Massively Multilingual Code Evaluation](./LLM/McEval.pdf)
+* [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](./LLM/Megatron-LM.pdf)
 * [Qwen2.5-Coder Technical Report](./LLM/Qwen2.5-Coder%20Technical%20Report.pdf)
 * [SGLang: Efficient Execution of Structured Language Model Programs](./LLM/SGLang.pdf)
 
