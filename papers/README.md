@@ -18,6 +18,10 @@
 * [Qwen2.5-Coder Technical Report](./LLM/Qwen2.5-Coder%20Technical%20Report.pdf)
 * [SGLang: Efficient Execution of Structured Language Model Programs](./LLM/SGLang.pdf)
 
+## [Neural Network](./neural%20network/)
+
+* [Intention Recognition with Recurrent Neural Networks for Dynamic Human-Robot Collaboration](./neural%20network/Intention_Recognition_with_Recurrent_Neural_Networks_for_Dynamic_Human-Robot_Collaboration.pdf)
+
 ## [Transformer Model](./transformer%20model/)
 
 * [Attention is All You Need](./transformer%20model/Attention%20is%20All%20You%20Need.pdf) ([Reading Notes](../reading%20notes/papers/Attention%20is%20All%20You%20Need.md))
