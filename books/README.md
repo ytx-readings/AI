@@ -47,3 +47,8 @@
 * [_Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_](./machine%20learning/Hands-On_Machine_Learning_with_Scikit-Learn-Keras-and-TensorFlow-2nd-Edition-Aurelien-Geron.pdf)
 * [_Machine Learning Yearning_](./machine%20learning/andrew-ng-machine-learning-yearning.pdf)
 * [_Practical Machine Learning in JavaScript: TensorFlow.js for Web Developers_](./machine%20learning/Practical%20Machine%20Learning%20in%20JavaScript%20TensorFlow.js%20for%20Web%20Developers%20(Charlie%20Gerard)%20(Z-Library).pdf)
+
+## [Natural Language Processing](./natural%20language%20processing/)
+
+* [_Natural Language Processing with PyTorch_](./natural%20language%20processing/Natural%20Language%20Processing%20with%20PyTorch%20Build%20Intelligent%20Language%20Applications%20Using%20Deep%20Learning%20(Delip%20Rao,%20Brian%20McMahan)%20(Z-Library).epub)
+* [_Natural Language Processing with Transformers_](./natural%20language%20processing/Natural%20Language%20Processing%20with%20Transformers%20Building%20Language%20Applications%20with%20Hugging%20Face%20(Lewis%20Tunstall,%20Leandro%20von%20Werra,%20Thomas%20Wolf)%20(Z-Library).epub)
