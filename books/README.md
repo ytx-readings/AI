@@ -51,5 +51,5 @@
 
 ## [Natural Language Processing](./natural%20language%20processing/)
 
-* [_Natural Language Processing with PyTorch_](./natural%20language%20processing/Natural%20Language%20Processing%20with%20PyTorch%20Build%20Intelligent%20Language%20Applications%20Using%20Deep%20Learning%20(Delip%20Rao,%20Brian%20McMahan)%20(Z-Library).epub)
-* [_Natural Language Processing with Transformers_](./natural%20language%20processing/Natural%20Language%20Processing%20with%20Transformers%20Building%20Language%20Applications%20with%20Hugging%20Face%20(Lewis%20Tunstall,%20Leandro%20von%20Werra,%20Thomas%20Wolf)%20(Z-Library).epub)
+* [_Natural Language Processing with PyTorch_](./natural%20language%20processing/Natural%20Language%20Processing%20with%20PyTo...%20(Z-Library).pdf)
+* [_Natural Language Processing with Transformers_](./natural%20language%20processing/dokumen.pub_natural-language-processing-with-transformers-revised-edition-1098136799-9781098136796-9781098103248.pdf)
