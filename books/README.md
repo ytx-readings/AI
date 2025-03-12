@@ -50,6 +50,10 @@
 
 * [_Artificial Intelligence: A Guide for Thinking Humans_](./intro/dokumen.pub_artificial-intelligence-a-guide-for-thinking-humans-978-0374257835.epub)
 
+## [LLM](./LLM)
+
+* [《大语言模型》 _The Chinese Book for Large Language Models_](./LLM/LLMBook.pdf)
+
 ## [Machine Learning](./machine%20learning/)
 
 * [_AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence_](./intro/dokumen.pub_artificial-intelligence-a-guide-for-thinking-humans-978-0374257835.epub)
