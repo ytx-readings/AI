@@ -31,6 +31,7 @@
 
 ## [LLM](./LLM)
 
+* [_Large Language Models: A Deep Dive_](./LLM/Large%20Language%20Models%20A%20Deep%20Dive%20Bridging%20Theory%20and%20Practice%20(Uday%20Kamath,%20Kevin%20Keenan,%20Garrett%20Somers%20etc.)%20(Z-Library).pdf)
 * [《大语言模型》 _The Chinese Book for Large Language Models_](./LLM/LLMBook.pdf)
 
 ### [ChatGPT](./LLM/ChatGPT/)
