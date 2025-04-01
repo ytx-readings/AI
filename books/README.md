@@ -1,5 +1,9 @@
 # AI Books
 
+## [AI & society](./AI%20&%20society/)
+
+* [_AI Superpowers: China, Silicon Valley, and the World Order_](./AI%20&%20society/AI%20Superpowers%20China,%20Silicon%20Valley,%20and%20the%20New%20World%20Order%20(Lee,%20Kai-Fu)%20(Z-Library).epub)
+
 ## [Career development](./career%20development/)
 
 * [_How to Build Your Career in AI_](./career%20development/eBook-How-to-Build-a-Career-in-AI.pdf)
