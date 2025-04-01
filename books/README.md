@@ -40,16 +40,6 @@
 * [_Inside Deep Learning_](./deep%20learning/Inside%20Deep%20Learning%20Math,%20Algorithms,%20Models%20(Final%20Release)%20(Edward%20Raff)%20(Z-Library).pdf)
 * [_Programming PyTorch for Deep Learning_](./deep%20learning/Programming%20PyTorch%20for%20Deep%20Learning%20(Ian%20Pointer)%20(Z-Library).pdf)
 
-## [DeepSeek](./DeepSeek/)
-
-* [_DeepSeek: Master AI in 2025_](./DeepSeek/DeepSeek%20Master%20AI%20in%202025%20–%20The%20Ultimate%20Guide%20to%20Outperform%20ChatGPT,%20Boost%20Productivity%20Future-Proof%20Your%20Skills%20Automate...%20(Sanchez,%20Cesar)%20(Z-Library).epub)
-* [_DeepSeek R1 for Python Developers_](./DeepSeek/DeepSeek%20R1%20for%20Python%20Developers%20Practical%20Projects%20and%20Advanced%20Techniques%20(Thao,%20Larry%20D)%20(Z-Library).epub)
-* [_Mastering DeepSeek AI: Step-by-Step Guide to the ChatGPT Challenger_](./DeepSeek/Mastering%20DeepSeek%20AI%20Step-by-Step%20Guide%20to%20the%20ChatGPT%20Challenger%20(Mandal,%20Dr.%20Wasim%20Akram)%20(Z-Library).epub)
-* [_Mastering DeepSeek-v3: Unlocking Advanced Features for Expert Users_](./DeepSeek/Mastering%20DeepSeek-v3%20Unlocking%20Advanced%20Features%20for%20Expert%20Users%20(DeepSeek%20Book%20Series%20Mastering%20AI-Powered%20Search%202)%20(KITS%20FOR%20LIFE)%20(Z-Library).epub)
-* [_Prompt Engineering with DeepSeek: Master AI for 10x Productivity and Effortless Income_](./DeepSeek/Prompt%20Engineering%20with%20DeepSeek%20Master%20AI%20for%2010x%20Productivity%20and%20Effortless%20Income%20(Jain,%20Yash)%20(Z-Library).epub)
-* [_The DeepSeek Millionaire_](./DeepSeek/The%20DeepSeek%20Millionaire%20The%20AI%20Money%20Blueprint%20for%20Passive%20Income%20Online%20Domination%20How%20to%20Make%20Money%20with%20DeepSeek,...%20(Collins%20Asein)%20(Z-Library).epub)
-* [_The Rise of DeepSeek_](./DeepSeek/The%20Rise%20of%20DeepSeek%20How%20a%20One%20Year%20Old%20Chinese%20Company%20Disrupted%20the%20AI%20Landscape%20(Steve%20Russell)%20(Z-Library).epub)
-
 ## [Intro to AI](./intro/)
 
 * [_Artificial Intelligence: A Guide for Thinking Humans_](./intro/dokumen.pub_artificial-intelligence-a-guide-for-thinking-humans-978-0374257835.epub)
@@ -57,6 +47,17 @@
 ## [LLM](./LLM)
 
 * [《大语言模型》 _The Chinese Book for Large Language Models_](./LLM/LLMBook.pdf)
+
+### [DeepSeek](./LLM/DeepSeek/)
+
+* [_DeepSeek: Master AI in 2025_](./LLM/DeepSeek/DeepSeek%20Master%20AI%20in%202025%20–%20The%20Ultimate%20Guide%20to%20Outperform%20ChatGPT,%20Boost%20Productivity%20Future-Proof%20Your%20Skills%20Automate...%20(Sanchez,%20Cesar)%20(Z-Library).epub)
+* [_DeepSeek R1 for Python Developers_](./LLM/DeepSeek/DeepSeek%20R1%20for%20Python%20Developers%20Practical%20Projects%20and%20Advanced%20Techniques%20(Thao,%20Larry%20D)%20(Z-Library).epub)
+* [_DeepSeek, the Artificial Intelligence that surpasses ChatGPT_](./LLM/DeepSeek/DeepSeek,%20the%20Artificial%20Intelligence%20that%20surpasses%20ChatGPT%20Ultimate%20Guide%20to%20Mastering%20AI%20Earn%20Money%20Online%20Thanks%20to%20This...%20(Pineda,%20Léo%20Raphaël)%20(Z-Library).epub)
+* [_Mastering DeepSeek AI: Step-by-Step Guide to the ChatGPT Challenger_](./LLM/DeepSeek/Mastering%20DeepSeek%20AI%20Step-by-Step%20Guide%20to%20the%20ChatGPT%20Challenger%20(Mandal,%20Dr.%20Wasim%20Akram)%20(Z-Library).epub)
+* [_Mastering DeepSeek-v3: Unlocking Advanced Features for Expert Users_](./LLM/DeepSeek/Mastering%20DeepSeek-v3%20Unlocking%20Advanced%20Features%20for%20Expert%20Users%20(DeepSeek%20Book%20Series%20Mastering%20AI-Powered%20Search%202)%20(KITS%20FOR%20LIFE)%20(Z-Library).epub)
+* [_Prompt Engineering with DeepSeek: Master AI for 10x Productivity and Effortless Income_](./LLM/DeepSeek/Prompt%20Engineering%20with%20DeepSeek%20Master%20AI%20for%2010x%20Productivity%20and%20Effortless%20Income%20(Jain,%20Yash)%20(Z-Library).epub)
+* [_The DeepSeek Millionaire_](./LLM/DeepSeek/The%20DeepSeek%20Millionaire%20The%20AI%20Money%20Blueprint%20for%20Passive%20Income%20Online%20Domination%20How%20to%20Make%20Money%20with%20DeepSeek,...%20(Collins%20Asein)%20(Z-Library).epub)
+* [_The Rise of DeepSeek_](./LLM/DeepSeek/The%20Rise%20of%20DeepSeek%20How%20a%20One%20Year%20Old%20Chinese%20Company%20Disrupted%20the%20AI%20Landscape%20(Steve%20Russell)%20(Z-Library).epub)
 
 ## [Machine Learning](./machine%20learning/)
 
