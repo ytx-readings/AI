@@ -23,6 +23,10 @@
 
 * [Intention Recognition with Recurrent Neural Networks for Dynamic Human-Robot Collaboration](./neural%20network/Intention_Recognition_with_Recurrent_Neural_Networks_for_Dynamic_Human-Robot_Collaboration.pdf)
 
+## [NLP](./NLP/)
+
+* [基于多任务蒸馏的意图识别和槽位填充](./NLP/基于多任务蒸馏的意图识别和槽位填充.pdf)
+
 ## [Transformer Model](./transformer%20model/)
 
 * [Attention is All You Need](./transformer%20model/Attention%20is%20All%20You%20Need.pdf) ([Reading Notes](../reading%20notes/papers/Attention%20is%20All%20You%20Need.md))
