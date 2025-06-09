@@ -7,6 +7,7 @@
 
 ## [AI Engineering](./AI%20engineering/)
 
+* [_Agents_ (Google AI Agents Whitepaper)](./AI%20engineering/google-ai-agents-whitepaper.pdf)
 * [_AI Engineering: Building Applications with Foundation Models_](./AI%20engineering/AI%20Engineering%20Building%20Applications%20with%20Foundation%20Models%20(Chip%20Huyen)%20(Z-Library).pdf)
 
 ## [Career development](./career%20development/)
@@ -37,6 +38,7 @@
 ## [LLM](./LLM)
 
 * [_Large Language Models: A Deep Dive_](./LLM/Large%20Language%20Models%20A%20Deep%20Dive%20Bridging%20Theory%20and%20Practice%20(Uday%20Kamath,%20Kevin%20Keenan,%20Garrett%20Somers%20etc.)%20(Z-Library).pdf)
+* [_Prompting Guide_](./LLM/gemini-for-google-workspace-prompting-guide-101.pdf)
 * [《大语言模型》 _The Chinese Book for Large Language Models_](./LLM/LLMBook.pdf)
 
 ### [ChatGPT](./LLM/ChatGPT/)
