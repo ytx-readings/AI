@@ -81,6 +81,8 @@
 
 ## [Natural Language Processing](./natural%20language%20processing/)
 
+* [《HuggingFace 自然语言处理详解——基于BERT中文模型的任务实战》](./natural%20language%20processing/HuggingFace自然语言处理详解——基于BERT中文模型的任务实战%20(李福林)%20(Z-Library).epub)
 * [_Natural Language Processing with PyTorch_](./natural%20language%20processing/Natural%20Language%20Processing%20with%20PyTo...%20(Z-Library).pdf)
 * [_Natural Language Processing with Transformers_](./natural%20language%20processing/dokumen.pub_natural-language-processing-with-transformers-revised-edition-1098136799-9781098136796-9781098103248.pdf)
 * [_Practical Natural Language Processing_](./natural%20language%20processing/Practical%20Natural%20Language%20Processing%20A%20Comprehensive%20Guide%20to%20Building%20Real-World%20NLP%20Systems%20(Sowmya%20Vajjala,%20Bodhisattwa%20Majumder%20etc.)%20(Z-Library).pdf)
+* [_Transformers for Natural Language Processing_](./natural%20language%20processing/Transformers%20for%20Natural%20Language%20Processing%20(Denis%20Rothman)%20(Z-Library).pdf)
