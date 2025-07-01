@@ -25,6 +25,7 @@
 
 ## [NLP](./NLP/)
 
+* [Dual-Objective Fine-Tuning of BERT for Entity Matching](./NLP/Dual-Objective%20Fine-Tuning%20of%20BERT%20for%20Entity%20Matching.pdf)
 * [基于多任务蒸馏的意图识别和槽位填充](./NLP/基于多任务蒸馏的意图识别和槽位填充.pdf)
 
 ## [Transformer Model](./transformer%20model/)
