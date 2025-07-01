@@ -90,4 +90,5 @@
 ## [PyTorch](./PyTorch/)
 
 * [_Deep Learning with PyTorch_](./PyTorch/Deep%20Learning%20With%20Pytorch%20(Eli%20Stevens,%20Luca%20Antiga,%20Thomas%20Viehmann)%20(Z-Library).pdf)
+* [_Natural Language Processing with PyTorch_](./PyTorch/Natural%20Language%20Processing%20with%20PyTorch%20(Z-Library).pdf)
 * [_Programming PyTorch for Deep Learning_](./PyTorch/Programming%20PyTorch%20for%20Deep%20Learning%20(Ian%20Pointer)%20(Z-Library).pdf)
