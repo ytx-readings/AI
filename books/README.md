@@ -79,6 +79,13 @@
 * [_Machine Learning Yearning_](./machine%20learning/andrew-ng-machine-learning-yearning.pdf)
 * [_Practical Machine Learning in JavaScript: TensorFlow.js for Web Developers_](./machine%20learning/Practical%20Machine%20Learning%20in%20JavaScript%20TensorFlow.js%20for%20Web%20Developers%20(Charlie%20Gerard)%20(Z-Library).pdf)
 
+## [_Multimedia Technology and Enhanced Learning_](./Multimedia%20Technology%20and%20Enhanced%20Learning/)
+
+### [ICMTEL 2020](./Multimedia%20Technology%20and%20Enhanced%20Learning/2020)
+
+* [Part 1](./Multimedia%20Technology%20and%20Enhanced%20Learning/2020/Multimedia%20Technology%20and%20Enhanced%20Learning%202020%20(Part%201).pdf)
+* [Part 2](./Multimedia%20Technology%20and%20Enhanced%20Learning/2020/Multimedia%20Technology%20and%20Enhanced%20Learning%202020%20(Part%202).pdf)
+
 ## [Natural Language Processing](./natural%20language%20processing/)
 
 * [《HuggingFace 自然语言处理详解——基于BERT中文模型的任务实战》](./natural%20language%20processing/HuggingFace自然语言处理详解——基于BERT中文模型的任务实战%20(李福林)%20(Z-Library).epub)
