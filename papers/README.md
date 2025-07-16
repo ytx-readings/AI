@@ -31,7 +31,9 @@
 * [Intent-Aware Dialogue Generation and Multi-Task Contrastive Learning for Multi-Turn Intent Classification](./NLP/Intent-Aware%20Dialogue%20Generation%20and%20Multi-Task%20Contrastive%20Learning%20for%20Multi-Turn%20Intent%20Classification.pdf)
 * [Joint Multiple Intent Detection and Slot Labeling for Goal-Oriented Dialog](./NLP/Joint%20Multiple%20Intent%20Detection%20and%20Slot%20Labeling%20for%20Goal-Oriented%20Dialog.pdf)
 * [LARA: Lingustic-Adaptive Retrieval-Augmentation for Multi-Turn Intent Classification](./NLP/LARA%20Linguistic-Adaptive%20Retrieval-Augmentation%20for%20Multi-Turn%20Intent%20Classification.pdf)
+* [MIDAS: Multi-level Intent, Domain, And Slot Knowledge Distillation for Multi-turn NLU](./NLP/MIDAS%20Multi-level%20Intent,%20Domain,%20And%20Slot%20Knowledge%20Distillation%20for%20Multi-turn%20NLU.pdf)
 * [MIDLM: Multi-Intent Detection with Bidirectional Large Language Models](./NLP/MIDLM%20Multi-Intent%20Detection%20with%20Bidirectional%20Large%20Language%20Models.pdf)
+* [MTSI-BERT: A Session-aware Knowledge-based Conversational Agent](./NLP/MTSI-BERT%20A%20Session-aware%20Knowledge-based%20Conversational%20Agent.pdf)
 * [基于多任务蒸馏的意图识别和槽位填充](./NLP/基于多任务蒸馏的意图识别和槽位填充.pdf)
 
 ## [Transformer Model](./transformer%20model/)
