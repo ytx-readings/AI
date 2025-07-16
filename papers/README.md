@@ -26,6 +26,10 @@
 ## [NLP](./NLP/)
 
 * [Dual-Objective Fine-Tuning of BERT for Entity Matching](./NLP/Dual-Objective%20Fine-Tuning%20of%20BERT%20for%20Entity%20Matching.pdf)
+* [Few-Shot Intent Detection via Contrastive Pre-Training and Fine-Tuning](./NLP/Few-Shot%20Intent%20Detection%20via%20Contrastive%20Pre-Training%20and%20Fine-Tuning.pdf)
+* [Intent-Aware Dialogue Generation and Multi-Task Contrastive Learning for Multi-Turn Intent Classification](./NLP/Intent-Aware%20Dialogue%20Generation%20and%20Multi-Task%20Contrastive%20Learning%20for%20Multi-Turn%20Intent%20Classification.pdf)
+* [LARA: Lingustic-Adaptive Retrieval-Augmentation for Multi-Turn Intent Classification](./NLP/LARA%20Linguistic-Adaptive%20Retrieval-Augmentation%20for%20Multi-Turn%20Intent%20Classification.pdf)
+* [MIDLM: Multi-Intent Detection with Bidirectional Large Language Models](./NLP/MIDLM%20Multi-Intent%20Detection%20with%20Bidirectional%20Large%20Language%20Models.pdf)
 * [基于多任务蒸馏的意图识别和槽位填充](./NLP/基于多任务蒸馏的意图识别和槽位填充.pdf)
 
 ## [Transformer Model](./transformer%20model/)
