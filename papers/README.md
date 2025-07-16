@@ -25,6 +25,7 @@
 
 ## [NLP](./NLP/)
 
+* [Balancing Accuracy and Efficiency in Multi-Turn Intent Classification for LLM-Powered Dialog Systems in Production](./NLP/Balancing%20Accuracy%20and%20Efficiency%20in%20Multi-Turn%20Intent%20Classification%20for%20LLM-Powered%20Dialog%20Systems%20in%20Production.pdf)
 * [Dual-Objective Fine-Tuning of BERT for Entity Matching](./NLP/Dual-Objective%20Fine-Tuning%20of%20BERT%20for%20Entity%20Matching.pdf)
 * [Few-Shot Intent Detection via Contrastive Pre-Training and Fine-Tuning](./NLP/Few-Shot%20Intent%20Detection%20via%20Contrastive%20Pre-Training%20and%20Fine-Tuning.pdf)
 * [Intent-Aware Dialogue Generation and Multi-Task Contrastive Learning for Multi-Turn Intent Classification](./NLP/Intent-Aware%20Dialogue%20Generation%20and%20Multi-Task%20Contrastive%20Learning%20for%20Multi-Turn%20Intent%20Classification.pdf)
