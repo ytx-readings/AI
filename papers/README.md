@@ -25,8 +25,11 @@
 
 ## [NLP](./NLP/)
 
+* [Are Pre-trained Transformers Robust in Intent Classification? A Missing Ingredient in Evaluation of Out-of-Scope Intent Detection](./NLP/Are%20Pre-trained%20Transformers%20Robust%20in%20Intent%20Classification.pdf)
 * [Balancing Accuracy and Efficiency in Multi-Turn Intent Classification for LLM-Powered Dialog Systems in Production](./NLP/Balancing%20Accuracy%20and%20Efficiency%20in%20Multi-Turn%20Intent%20Classification%20for%20LLM-Powered%20Dialog%20Systems%20in%20Production.pdf)
+* [Continual Few-shot Intent Detection](./NLP/Continual%20Few-shot%20Intent%20Detection.pdf)
 * [Dual-Objective Fine-Tuning of BERT for Entity Matching](./NLP/Dual-Objective%20Fine-Tuning%20of%20BERT%20for%20Entity%20Matching.pdf)
+* [Few-Shot Contrastive Learning-Based Multi-Round Dialog Intent Classification Method](./NLP/Few‐Shot%20Contrastive%20Learning‐Based%20Multi‐Round%20Dialogue%20Intent%20Classification%20Method.pdf)
 * [Few-Shot Intent Detection via Contrastive Pre-Training and Fine-Tuning](./NLP/Few-Shot%20Intent%20Detection%20via%20Contrastive%20Pre-Training%20and%20Fine-Tuning.pdf)
 * [Intent-Aware Dialogue Generation and Multi-Task Contrastive Learning for Multi-Turn Intent Classification](./NLP/Intent-Aware%20Dialogue%20Generation%20and%20Multi-Task%20Contrastive%20Learning%20for%20Multi-Turn%20Intent%20Classification.pdf)
 * [Joint Multiple Intent Detection and Slot Labeling for Goal-Oriented Dialog](./NLP/Joint%20Multiple%20Intent%20Detection%20and%20Slot%20Labeling%20for%20Goal-Oriented%20Dialog.pdf)
