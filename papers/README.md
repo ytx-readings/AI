@@ -42,6 +42,7 @@
 * [MTSI-BERT: A Session-aware Knowledge-based Conversational Agent](./NLP/MTSI-BERT%20A%20Session-aware%20Knowledge-based%20Conversational%20Agent.pdf)
 * [RoBERTa: A Robustly Optimized BERT Pretraining Approach](./NLP/RoBERTa%20A%20Robustly%20Optimized%20BERT%20Pretraining%20Approach.pdf)
 * [SELF-ICL: Zero-Shot In-Context Learning with Self-Generated Demonstrations](./NLP/SELF-ICL%20Zero-Shot%20In-Context%20Learning%20with%20Self-Generated%20Demonstrations.pdf)
+* [Z-ICL: Zero-Shot In-Context Learning with Pseudo-Demonstrations](./NLP/Z-ICL%20Zero-Shot%20In-Context%20Learning%20with%20Pseudo-Demonstrations.pdf)
 * [基于多任务蒸馏的意图识别和槽位填充](./NLP/基于多任务蒸馏的意图识别和槽位填充.pdf)
 
 ## [Transformer Model](./transformer%20model/)
