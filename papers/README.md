@@ -41,6 +41,7 @@
 * [MIDLM: Multi-Intent Detection with Bidirectional Large Language Models](./NLP/MIDLM%20Multi-Intent%20Detection%20with%20Bidirectional%20Large%20Language%20Models.pdf)
 * [MTSI-BERT: A Session-aware Knowledge-based Conversational Agent](./NLP/MTSI-BERT%20A%20Session-aware%20Knowledge-based%20Conversational%20Agent.pdf)
 * [RoBERTa: A Robustly Optimized BERT Pretraining Approach](./NLP/RoBERTa%20A%20Robustly%20Optimized%20BERT%20Pretraining%20Approach.pdf)
+* [SELF-ICL: Zero-Shot In-Context Learning with Self-Generated Demonstrations](./NLP/SELF-ICL%20Zero-Shot%20In-Context%20Learning%20with%20Self-Generated%20Demonstrations.pdf)
 * [基于多任务蒸馏的意图识别和槽位填充](./NLP/基于多任务蒸馏的意图识别和槽位填充.pdf)
 
 ## [Transformer Model](./transformer%20model/)
