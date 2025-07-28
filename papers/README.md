@@ -25,6 +25,7 @@
 
 ## [NLP](./NLP/)
 
+* [Application of the transformer model algorithm in Chinese word sense disambiguation: a case study in Chinese language](./NLP/Application%20of%20the%20transformer%20model%20algorithm%20in%20Chinese%20word%20sense%20disambiguation%20a%20case%20study%20in%20Chinese%20language.pdf)
 * [Are Pre-trained Transformers Robust in Intent Classification? A Missing Ingredient in Evaluation of Out-of-Scope Intent Detection](./NLP/Are%20Pre-trained%20Transformers%20Robust%20in%20Intent%20Classification.pdf)
 * [Balancing Accuracy and Efficiency in Multi-Turn Intent Classification for LLM-Powered Dialog Systems in Production](./NLP/Balancing%20Accuracy%20and%20Efficiency%20in%20Multi-Turn%20Intent%20Classification%20for%20LLM-Powered%20Dialog%20Systems%20in%20Production.pdf)
 * [Continual Few-shot Intent Detection](./NLP/Continual%20Few-shot%20Intent%20Detection.pdf)
