@@ -96,6 +96,7 @@
 * [_Transformers for Machine Learning: A Deep Dive_](./natural%20language%20processing/Transformers%20for%20Machine%20Learning%20A%20Deep%20Dive%20(Uday%20Kamath)%20(Z-Library).pdf)
 * [_Transformers for Natural Language Processing_](./natural%20language%20processing/Transformers%20for%20Natural%20Language%20Processing%20(Denis%20Rothman)%20(Z-Library).pdf)
 * [_Transformers for Natural Language Processing and Computer Vision_ (Third Edition)](./natural%20language%20processing/Transformers%20for%20Natural%20Language%20Processing%20and%20Computer%20Vision%20-%20Third%20Edition%20(Denis%20Rothman)%20(Z-Library).pdf)
+* [《中文自然语言处理导论》](./natural%20language%20processing/中文自然语言处理导论%20(徐睿峰，李斌阳，黄锦辉,%20黄锦辉%20(信息技术))%20(Z-Library).pdf)
 
 ## [PyTorch](./PyTorch/)
 
