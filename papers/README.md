@@ -43,6 +43,7 @@
 * [SELF-ICL: Zero-Shot In-Context Learning with Self-Generated Demonstrations](./natural%20language%20processing/SELF-ICL%20Zero-Shot%20In-Context%20Learning%20with%20Self-Generated%20Demonstrations.pdf)
 * [Z-ICL: Zero-Shot In-Context Learning with Pseudo-Demonstrations](./natural%20language%20processing/Z-ICL%20Zero-Shot%20In-Context%20Learning%20with%20Pseudo-Demonstrations.pdf)
 * [基于多任务蒸馏的意图识别和槽位填充](./natural%20language%20processing/基于多任务蒸馏的意图识别和槽位填充.pdf)
+* [基于小样本学习的意图识别与槽位填充方法](./natural%20language%20processing/基于小样本学习的意图识别与槽位填充方法.pdf) ([**数据集**](./natural%20language%20processing/智能人机交互自然语言理解/))
 
 ## [Neural Network](./neural%20network/)
 
