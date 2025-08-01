@@ -37,8 +37,10 @@
 
 ## [LLM](./LLM)
 
+* [_Hands-on Question Answering Systems with BERT_](./LLM/Hands-on%20Question%20Answering%20Systems%20with%20BERT%20Applications%20in%20Neural%20Networks%20and%20Natural%20Language%20Processing%20(Navin%20Sabharwal%20Amit%20Agrawal)%20(Z-Library).pdf)
 * [_Large Language Models: A Deep Dive_](./LLM/Large%20Language%20Models%20A%20Deep%20Dive%20Bridging%20Theory%20and%20Practice%20(Uday%20Kamath,%20Kevin%20Keenan,%20Garrett%20Somers%20etc.)%20(Z-Library).pdf)
-* [_Prompting Guide_](./LLM/gemini-for-google-workspace-prompting-guide-101.pdf)
+* [_Prompting Guide 101_](./LLM/gemini-for-google-workspace-prompting-guide-101.pdf)
+* [_Transformer, BERT, and GPT Including ChatGPT and Prompt Engineering_](./LLM/Transformer,%20BERT,%20and%20GPT%20Including%20ChatGPT%20and%20Prompt%20Engineering%20(MLI%20Generative%20AI%20Series)%20(Oswald%20Campesato)%20(Z-Library).pdf)
 * [《大语言模型》 _The Chinese Book for Large Language Models_](./LLM/LLMBook.pdf)
 
 ### [ChatGPT](./LLM/ChatGPT/)
@@ -54,6 +56,7 @@
 * [_The ChatGPT Millionaire Handbook_](./LLM/ChatGPT/The%20ChatGPT%20Millionaire%20Handbook%20(Tj%20Books)%20(Z-Library).epub)
 * [_The ChatGPT Millionaire: Leveraging on Artificial Intelligence to Earn Passive Income Online as a Business owner, 9-5 worker, Freelancer… and end your financial incapabilities_](./LLM/ChatGPT/The%20ChatGPT%20Millionaire%20Leveraging%20on%20Artificial%20Intelligence%20to%20Earn%20Passive%20Income%20Online%20as%20a%20Business%20owner,%209-5%20worker,...%20(Nathaniel%20Jon)%20(Z-Library).epub)
 * [_The ChatGPT Millionaire's Handbook: Unlocking Wealth Through AI Automation_](./LLM/ChatGPT/The%20ChatGPT%20Millionaires%20Handbook%20Unlocking%20Wealth%20Through%20Ai%20Automation%20(Logan%20Rivers)%20(Z-Library).epub)
+* [_Transformer, BERT, and GPT Including ChatGPT and Prompt Engineering_](./LLM/ChatGPT/Transformer,%20BERT,%20and%20GPT%20Including%20ChatGPT%20and%20Prompt%20Engineering%20(MLI%20Generative%20AI%20Series)%20(Oswald%20Campesato)%20(Z-Library).pdf)
 * [_What Is ChatGPT Doing… And Why Does It Work_](./LLM/ChatGPT/What%20Is%20ChatGPT%20Doing%20...%20And%20Why%20Does%20It%20Work%20(Stephen%20Wolfram)%20(Z-Library).epub)
 
 ### [DeepSeek](./LLM/DeepSeek/)
