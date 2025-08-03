@@ -106,3 +106,4 @@
 * [_Deep Learning with PyTorch_](./PyTorch/Deep-Learning-with-PyTorch.pdf)
 * [_Natural Language Processing with PyTorch_](./PyTorch/Natural%20Language%20Processing%20with%20PyTorch%20(Z-Library).pdf)
 * [_Programming PyTorch for Deep Learning_](./PyTorch/Programming%20PyTorch%20for%20Deep%20Learning%20(Ian%20Pointer)%20(Z-Library).pdf)
+* [_PyTorch Pocket Reference_](./PyTorch/dokumen.pub_pytorch-pocket-reference-building-and-deploying-deep-learning-models-1nbsped-9781492090007.pdf)
