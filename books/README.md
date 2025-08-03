@@ -26,7 +26,7 @@
 * [_Deep Learning_](./deep%20learning/DeepLearningBook.pdf)
 * [_Deep Learning for Coders with fastai & PyTorch_](./deep%20learning/Deep%20Learning%20for%20Coders%20with%20fastai...%20(Z-Library).pdf)
 * [_Deep Learning with Python_](./deep%20learning/Deep%20Learning%20with%20Python,%202nd%20Edition%20(Final%20Release)%20(Francois%20Chollet)%20(Z-Library).pdf)
-* [_Deep Learning with PyTorch_](./deep%20learning/Deep%20Learning%20With%20Pytorch%20(Eli%20Stevens,%20Luca%20Antiga,%20Thomas%20Viehmann)%20(Z-Library).pdf)
+* [_Deep Learning with PyTorch_](./deep%20learning/Deep-Learning-with-PyTorch.pdf)
 * [_Introduction to Deep Learning_](./deep%20learning/Introduction%20to%20Deep%20Learning%20(Eugene%20Charniak)%20(Z-Library).pdf)
 * [_Inside Deep Learning_](./deep%20learning/Inside%20Deep%20Learning%20Math,%20Algorithms,%20Models%20(Final%20Release)%20(Edward%20Raff)%20(Z-Library).pdf)
 * [_Programming PyTorch for Deep Learning_](./deep%20learning/Programming%20PyTorch%20for%20Deep%20Learning%20(Ian%20Pointer)%20(Z-Library).pdf)
@@ -103,6 +103,6 @@
 
 ## [PyTorch](./PyTorch/)
 
-* [_Deep Learning with PyTorch_](./PyTorch/Deep%20Learning%20With%20Pytorch%20(Eli%20Stevens,%20Luca%20Antiga,%20Thomas%20Viehmann)%20(Z-Library).pdf)
+* [_Deep Learning with PyTorch_](./PyTorch/Deep-Learning-with-PyTorch.pdf)
 * [_Natural Language Processing with PyTorch_](./PyTorch/Natural%20Language%20Processing%20with%20PyTorch%20(Z-Library).pdf)
 * [_Programming PyTorch for Deep Learning_](./PyTorch/Programming%20PyTorch%20for%20Deep%20Learning%20(Ian%20Pointer)%20(Z-Library).pdf)
