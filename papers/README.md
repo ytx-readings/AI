@@ -38,6 +38,7 @@
 * [Joint Multiple Intent Detection and Slot Labeling for Goal-Oriented Dialog](./natural%20language%20processing/Joint%20Multiple%20Intent%20Detection%20and%20Slot%20Labeling%20for%20Goal-Oriented%20Dialog.pdf)
 * [Knowledge Augmented BERT Mutual Network in Multi-turn Spoken Dialogues](./natural%20language%20processing/Knowledge%20Augmented%20BERT%20Mutual%20Network%20in%20Multi-turn%20Spoken%20Dialogues.pdf)
 * [LARA: Lingustic-Adaptive Retrieval-Augmentation for Multi-Turn Intent Classification](./natural%20language%20processing/LARA%20Linguistic-Adaptive%20Retrieval-Augmentation%20for%20Multi-Turn%20Intent%20Classification.pdf)
+* [Learning to Bridge Metric Spaces: Few-shot Joint Learning of Intent Detection and Slot Filling](./natural%20language%20processing/Few-shot%20Joint%20Learning.pdf)
 * [Long Dialog Summarization: An Analysis](./natural%20language%20processing/Long%20Dialog%20Summarization%20An%20Analysis.pdf)
 * [MIDAS: Multi-level Intent, Domain, And Slot Knowledge Distillation for Multi-turn NLU](./natural%20language%20processing/MIDAS%20Multi-level%20Intent,%20Domain,%20And%20Slot%20Knowledge%20Distillation%20for%20Multi-turn%20NLU.pdf)
 * [MIDLM: Multi-Intent Detection with Bidirectional Large Language Models](./natural%20language%20processing/MIDLM%20Multi-Intent%20Detection%20with%20Bidirectional%20Large%20Language%20Models.pdf)
