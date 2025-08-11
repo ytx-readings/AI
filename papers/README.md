@@ -44,6 +44,7 @@
 * [MTSI-BERT: A Session-aware Knowledge-based Conversational Agent](./natural%20language%20processing/MTSI-BERT%20A%20Session-aware%20Knowledge-based%20Conversational%20Agent.pdf)
 * [Multi-turn QA: A RNN Contextualized Approach to Intent Classification for Goal-oriented Systems](./natural%20language%20processing/Multi-turn%20QA%20A%20RNN%20Contextual%20Approach%20to%20Intent%20Classification%20for%20Goal-oriented%20Systems.pdf)
 * [RoBERTa: A Robustly Optimized BERT Pretraining Approach](./natural%20language%20processing/RoBERTa%20A%20Robustly%20Optimized%20BERT%20Pretraining%20Approach.pdf)
+* [Robust Zero-Shot Intent Detection via Contrastive Transfer Learning](./natural%20language%20processing/Robust%20Zero-Shot%20Intent%20Detection%20via%20Contrastive%20Transfer%20Learning.pdf)
 * [SELF-ICL: Zero-Shot In-Context Learning with Self-Generated Demonstrations](./natural%20language%20processing/SELF-ICL%20Zero-Shot%20In-Context%20Learning%20with%20Self-Generated%20Demonstrations.pdf)
 * [Z-ICL: Zero-Shot In-Context Learning with Pseudo-Demonstrations](./natural%20language%20processing/Z-ICL%20Zero-Shot%20In-Context%20Learning%20with%20Pseudo-Demonstrations.pdf)
 * [基于多任务蒸馏的意图识别和槽位填充](./natural%20language%20processing/基于多任务蒸馏的意图识别和槽位填充.pdf)
