@@ -76,6 +76,7 @@
 
 * [_Deep Learning_](./machine%20learning/deep%20learning/DeepLearningBook.pdf)
 * [_Deep Learning for Coders with fastai & PyTorch_](./machine%20learning/deep%20learning/Deep%20Learning%20for%20Coders%20with%20fastai...%20(Z-Library).pdf)
+* [_Deep Learning for Time Series Forecasting: Predict the Future with MLPs, CNNs and LSTMs in Python_](./machine%20learning/deep%20learning/Deep%20Learning%20for%20Time%20Series%20Forecasting%20Predict%20the%20Future%20with%20MLPs,%20CNNs%20and%20LSTMs%20in%20Python%20(Jason%20Brownlee)%20(Z-Library).pdf)
 * [_Deep Learning with Python_](./machine%20learning/deep%20learning/Deep%20Learning%20with%20Python,%202nd%20Edition%20(Final%20Release)%20(Francois%20Chollet)%20(Z-Library).pdf)
 * [_Deep Learning with PyTorch_](./machine%20learning/deep%20learning/Deep-Learning-with-PyTorch.pdf)
 * [_Introduction to Deep Learning_](./machine%20learning/deep%20learning/Introduction%20to%20Deep%20Learning%20(Eugene%20Charniak)%20(Z-Library).pdf)
