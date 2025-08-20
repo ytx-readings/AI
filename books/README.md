@@ -3,7 +3,7 @@
 ## [AI & society](./AI%20&%20society/)
 
 * [_AI Superpowers: China, Silicon Valley, and the World Order_](./AI%20&%20society/AI%20Superpowers%20China,%20Silicon%20Valley,%20and%20the%20New%20World%20Order%20(Lee,%20Kai-Fu)%20(Z-Library).epub)
-* [_OpenAI - AI in the Enterprise](./AI%20&%20society/OpenAI%20-%20AI%20in%20the%20Enterprise.pdf)
+* [_OpenAI - AI in the Enterprise_](./AI%20&%20society/OpenAI%20-%20AI%20in%20the%20Enterprise.pdf)
 
 ## [AI Engineering](./AI%20engineering/)
 
