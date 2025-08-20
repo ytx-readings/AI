@@ -83,6 +83,11 @@
 * [_Inside Deep Learning_](./machine%20learning/deep%20learning/Inside%20Deep%20Learning%20Math,%20Algorithms,%20Models%20(Final%20Release)%20(Edward%20Raff)%20(Z-Library).pdf)
 * [_Programming PyTorch for Deep Learning_](./machine%20learning/deep%20learning/Programming%20PyTorch%20for%20Deep%20Learning%20(Ian%20Pointer)%20(Z-Library).pdf)
 
+## [Mathematics](./mathematics/)
+
+* [_Mathematics for Deep Learning_](./mathematics/Math%20for%20Deep%20Learning%20What%20You%20Need%20to%20Know%20to%20Understand%20Neural%20Networks%20(Ronald%20T.%20Kneusel)%20(Z-Library).pdf)
+* [_Mathematics for Machine Learning_](./mathematics/Mathematics%20For%20Machine%20Learning%20(Marc%20Peter%20Deisenroth,%20A.%20Aldo%20Faisal%20etc.)%20(Z-Library).pdf)
+
 ## [_Multimedia Technology and Enhanced Learning_](./Multimedia%20Technology%20and%20Enhanced%20Learning/)
 
 ### [ICMTEL 2020](./Multimedia%20Technology%20and%20Enhanced%20Learning/2020)
