@@ -23,6 +23,7 @@
 ## [Natural Language Processing](./natural%20language%20processing/)
 
 * [A Context-Aware Hierarchical BERT Fusion Network for Multi-turn Dialog Act Detection](./natural%20language%20processing/A%20Context-Aware%20Hierarchical%20BERT%20Fusion%20Network%20for%20Multi-turn%20Dialog%20Act%20Detection.pdf)
+* [A Label-Aware BERT Attention Network for Zero-Shot Multi-Intent Detection in Spoken Language Understanding](./natural%20language%20processing/A%20Label-Aware%20BERT%20Attention%20Network%20for%20Zero-Shot%20Multi-Intent%20Detection%20in%20Spoken%20Language%20Understanding.pdf)
 * [Application of the transformer model algorithm in Chinese word sense disambiguation: a case study in Chinese language](./natural%20language%20processing/Application%20of%20the%20transformer%20model%20algorithm%20in%20Chinese%20word%20sense%20disambiguation%20a%20case%20study%20in%20Chinese%20language.pdf)
 * [Are Pre-trained Transformers Robust in Intent Classification? A Missing Ingredient in Evaluation of Out-of-Scope Intent Detection](./natural%20language%20processing/Are%20Pre-trained%20Transformers%20Robust%20in%20Intent%20Classification.pdf)
 * [Balancing Accuracy and Efficiency in Multi-Turn Intent Classification for LLM-Powered Dialog Systems in Production](./natural%20language%20processing/Balancing%20Accuracy%20and%20Efficiency%20in%20Multi-Turn%20Intent%20Classification%20for%20LLM-Powered%20Dialog%20Systems%20in%20Production.pdf)
