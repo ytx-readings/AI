@@ -118,3 +118,7 @@
 * [_Natural Language Processing with PyTorch_](./PyTorch/Natural%20Language%20Processing%20with%20PyTorch%20(Z-Library).pdf)
 * [_Programming PyTorch for Deep Learning_](./PyTorch/Programming%20PyTorch%20for%20Deep%20Learning%20(Ian%20Pointer)%20(Z-Library).pdf)
 * [_PyTorch Pocket Reference_](./PyTorch/dokumen.pub_pytorch-pocket-reference-building-and-deploying-deep-learning-models-1nbsped-9781492090007.pdf)
+
+## [System Design](./system%20design/)
+
+* [_Machine Learning System Design: with end-to-end examples_](./system%20design/Machine%20Learning%20System%20Design%20With%20end-to-end%20examples%20(Valerii%20Babushkin,%20Arseny%20Kravchenko)%20(Z-Library).pdf)
