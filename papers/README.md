@@ -44,6 +44,7 @@
 * [Long Dialog Summarization: An Analysis](./natural%20language%20processing/Long%20Dialog%20Summarization%20An%20Analysis.pdf)
 * [MIDAS: Multi-level Intent, Domain, And Slot Knowledge Distillation for Multi-turn NLU](./natural%20language%20processing/MIDAS%20Multi-level%20Intent,%20Domain,%20And%20Slot%20Knowledge%20Distillation%20for%20Multi-turn%20NLU.pdf)
 * [MIDLM: Multi-Intent Detection with Bidirectional Large Language Models](./natural%20language%20processing/MIDLM%20Multi-Intent%20Detection%20with%20Bidirectional%20Large%20Language%20Models.pdf)
+* [Multi-turn intent determination and slot filling with neural networks and regular expressions](./natural%20language%20processing/Multi-turn%20intent%20determination%20and%20slot%20filling%20with%20neural%20networks%20and%20regular%20expressions%20(Abro,%20Waheed%20Ahmed%20Qi,%20Guilin%20Ali%20etc.)%20(Z-Library).pdf)
 * [MTSI-BERT: A Session-aware Knowledge-based Conversational Agent](./natural%20language%20processing/MTSI-BERT%20A%20Session-aware%20Knowledge-based%20Conversational%20Agent.pdf)
 * [Multi-turn QA: A RNN Contextualized Approach to Intent Classification for Goal-oriented Systems](./natural%20language%20processing/Multi-turn%20QA%20A%20RNN%20Contextual%20Approach%20to%20Intent%20Classification%20for%20Goal-oriented%20Systems.pdf)
 * [Out-of-Domain Intent Detection Considering Multi-Turn Dialogue Contexts](./natural%20language%20processing/Out-of-Domain%20Intent%20Detection%20Considering%20Multi-Turn%20Dialogue%20Contexts.pdf)
