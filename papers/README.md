@@ -46,6 +46,7 @@
 * [MIDLM: Multi-Intent Detection with Bidirectional Large Language Models](./natural%20language%20processing/MIDLM%20Multi-Intent%20Detection%20with%20Bidirectional%20Large%20Language%20Models.pdf)
 * [MTSI-BERT: A Session-aware Knowledge-based Conversational Agent](./natural%20language%20processing/MTSI-BERT%20A%20Session-aware%20Knowledge-based%20Conversational%20Agent.pdf)
 * [Multi-turn QA: A RNN Contextualized Approach to Intent Classification for Goal-oriented Systems](./natural%20language%20processing/Multi-turn%20QA%20A%20RNN%20Contextual%20Approach%20to%20Intent%20Classification%20for%20Goal-oriented%20Systems.pdf)
+* [Out-of-Domain Intent Detection Considering Multi-Turn Dialogue Contexts](./natural%20language%20processing/Out-of-Domain%20Intent%20Detection%20Considering%20Multi-Turn%20Dialogue%20Contexts.pdf)
 * [RoBERTa: A Robustly Optimized BERT Pretraining Approach](./natural%20language%20processing/RoBERTa%20A%20Robustly%20Optimized%20BERT%20Pretraining%20Approach.pdf)
 * [Robust Zero-Shot Intent Detection via Contrastive Transfer Learning](./natural%20language%20processing/Robust%20Zero-Shot%20Intent%20Detection%20via%20Contrastive%20Transfer%20Learning.pdf)
 * [SELF-ICL: Zero-Shot In-Context Learning with Self-Generated Demonstrations](./natural%20language%20processing/SELF-ICL%20Zero-Shot%20In-Context%20Learning%20with%20Self-Generated%20Demonstrations.pdf)
