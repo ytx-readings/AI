@@ -83,6 +83,10 @@
 * [_Inside Deep Learning_](./machine%20learning/deep%20learning/Inside%20Deep%20Learning%20Math,%20Algorithms,%20Models%20(Final%20Release)%20(Edward%20Raff)%20(Z-Library).pdf)
 * [_Programming PyTorch for Deep Learning_](./machine%20learning/deep%20learning/Programming%20PyTorch%20for%20Deep%20Learning%20(Ian%20Pointer)%20(Z-Library).pdf)
 
+## [Keras](./Keras)
+
+* [_Deep Learning with Keras_](./Keras/deep%20learning%20with%20Keras%20(Antonio%20Gulli,%20Sujit%20Pal)%20(Z-Library).pdf)
+
 ## [Mathematics](./mathematics/)
 
 * [_Essential Math for AI_](./mathematics/Essential%20Math%20for%20AI%20Next-Level%20Mathematics%20for%20Efficient%20and%20Successful%20AI%20Systems%20(Hala%20Nelson)%20(Z-Library).pdf)
