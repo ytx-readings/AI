@@ -98,6 +98,7 @@
 * [_Math and Architectures of Deep Learning_](./mathematics/Math%20and%20Architectures%20of%20Deep%20Learning%20(Krishnendu%20Chaudhury)%20(Z-Library).pdf)
 * [_Math for Deep Learning_](./mathematics/Math%20for%20Deep%20Learning%20What%20You%20Need%20to%20Know%20to%20Understand%20Neural%20Networks%20(Ronald%20T.%20Kneusel)%20(Z-Library).pdf)
 * [_Mathematical Engineering of Deep Learning_](./mathematics/Mathematical%20Engineering%20of%20Deep%20Learning%20(Benoit%20Liquet,%20Sarat%20Moka,%20Yoni%20Nazarathy)%20(Z-Library).pdf)
+* [_Mathematical Foundations of Reinforcement Learning_](./mathematics/Mathematical%20Foundations%20of%20Reinforcement%20Learning.pdf)
 * [_Mathematics for Machine Learning_](./mathematics/Mathematics%20For%20Machine%20Learning%20(Marc%20Peter%20Deisenroth,%20A.%20Aldo%20Faisal%20etc.)%20(Z-Library).pdf)
 * [《word2vec中的数学》](./mathematics/word2vec%20中的数学%20(it-ebooks)%20(Z-Library).pdf)
 
