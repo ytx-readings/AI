@@ -27,6 +27,7 @@
 
 ## [LLM](./LLM)
 
+* [_Build a Large Language Model (From Scratch)_](./LLM/Build%20a%20Large%20Language%20Model%20(From%20Scratch)%20(Sebastian%20Raschka)%20(Z-Library).pdf)
 * [_Hands-on Question Answering Systems with BERT_](./LLM/Hands-on%20Question%20Answering%20Systems%20with%20BERT%20Applications%20in%20Neural%20Networks%20and%20Natural%20Language%20Processing%20(Navin%20Sabharwal%20Amit%20Agrawal)%20(Z-Library).pdf)
 * [_Large Language Models: A Deep Dive_](./LLM/Large%20Language%20Models%20A%20Deep%20Dive%20Bridging%20Theory%20and%20Practice%20(Uday%20Kamath,%20Kevin%20Keenan,%20Garrett%20Somers%20etc.)%20(Z-Library).pdf)
 * [_Prompting Guide 101_](./LLM/gemini-for-google-workspace-prompting-guide-101.pdf)
