@@ -64,6 +64,13 @@
 * [_The DeepSeek Millionaire_](./LLM/DeepSeek/The%20DeepSeek%20Millionaire%20The%20AI%20Money%20Blueprint%20for%20Passive%20Income%20Online%20Domination%20How%20to%20Make%20Money%20with%20DeepSeek,...%20(Collins%20Asein)%20(Z-Library).epub)
 * [_The Rise of DeepSeek_](./LLM/DeepSeek/The%20Rise%20of%20DeepSeek%20How%20a%20One%20Year%20Old%20Chinese%20Company%20Disrupted%20the%20AI%20Landscape%20(Steve%20Russell)%20(Z-Library).epub)
 
+### [Prompt Engineering](./LLM/prompt%20engineering)
+
+* [_ChatGPT: Learning Prompt Engineering with 100+ Examples_](./LLM/prompt%20engineering/ChatGPТ%20learning%20prompt%20engineering%20with%20100+%20examples.pdf)
+* [_Prompt Engineering for Generative AI_](./LLM/prompt%20engineering/Prompt%20Engineering%20for%20Generative%20AI%20Future-Proof%20Inputs%20for%20Reliable%20Al%20Outputs%20(James%20Phoenix,%20Mike%20Taylor)%20(Z-Library).pdf)
+* [_Prompt Engineering for LLMs_](./LLM/prompt%20engineering/Prompt%20Engineering%20for%20LLMs%20The%20Art%20and%20Science%20of%20Building%20Large%20Language%20Model-Based%20Applications%20(John%20Berryman,%20Albert%20Ziegler)%20(Z-Library).pdf)
+* [_The Art of Prompt Engineering with ChatGPT_](./LLM/prompt%20engineering/The%20Art%20of%20Prompt%20Engineering%20with%20chatGPT%20A%20Hands-On%20Guide%20(Nathan%20Hunter)%20(Z-Library).pdf)
+
 ## [Machine Learning](./machine%20learning/)
 
 * [_AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence_](./intro/dokumen.pub_artificial-intelligence-a-guide-for-thinking-humans-978-0374257835.epub)
