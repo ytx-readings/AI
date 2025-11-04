@@ -16,6 +16,7 @@
 
 ## [Coding](./coding/)
 
+- [_Beyond Vibe Coding_](<./coding/Beyond%20Vibe%20Coding%20From%20Coder%20to%20AI-Era%20Developer%20(Addy%20Osmani)%20(Z-Library).pdf>)
 - [_Supercharged Coding with GenAI_](./coding/dokumen.pub_supercharged-coding-with-genai-from-vibe-coding-to-best-practices-using-github-copilot-chatgpt-and-openai-1.pdf)
 
 ## [Computer Vision](./computer%20vision/)
