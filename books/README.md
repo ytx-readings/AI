@@ -70,6 +70,11 @@
 - [_The DeepSeek Millionaire_](<./LLM/DeepSeek/The%20DeepSeek%20Millionaire%20The%20AI%20Money%20Blueprint%20for%20Passive%20Income%20Online%20Domination%20How%20to%20Make%20Money%20with%20DeepSeek,...%20(Collins%20Asein)%20(Z-Library).epub>)
 - [_The Rise of DeepSeek_](<./LLM/DeepSeek/The%20Rise%20of%20DeepSeek%20How%20a%20One%20Year%20Old%20Chinese%20Company%20Disrupted%20the%20AI%20Landscape%20(Steve%20Russell)%20(Z-Library).epub>)
 
+### [LangChain](./LLM/LangChain/)
+
+- [_Learning LangChain_](<./LLM/LangChain/Learning%20LangChain%20Building%20AI%20and%20LLM%20Applications%20with%20LangChain%20and%20LangGraph%20(Mayo%20Oshin,%20Nuno%20Campos)%20(Z-Library).pdf>)
+- [_The New Generative AI with LangChain Playbook_](./LLM/LangChain/The%20New%20Generative%20AI%20with%20LangChain%20Playbook%20--%20Bennett%20Kouri%20--%20d997d36b91bbcc18d2db319ffd141d06%20--%20Anna’s%20Archive.pdf)
+
 ### [Prompt Engineering](./LLM/prompt%20engineering)
 
 - [_ChatGPT: Learning Prompt Engineering with 100+ Examples_](./LLM/prompt%20engineering/ChatGPТ%20learning%20prompt%20engineering%20with%20100+%20examples.pdf)
