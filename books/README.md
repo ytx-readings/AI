@@ -74,6 +74,7 @@
 ### [LangChain](./LLM/LangChain/)
 
 - [_Learning LangChain_](<./LLM/LangChain/Learning%20LangChain%20Building%20AI%20and%20LLM%20Applications%20with%20LangChain%20and%20LangGraph%20(Mayo%20Oshin,%20Nuno%20Campos)%20(Z-Library).pdf>)
+- [_Mastering LangChain_](<./LLM/LangChain/Mastering%20LangChain%20A%20Comprehensive%20Guide%20to%20Building%20Generative%20AI%20Applications%20(Sanath%20Raj%20B%20Narayan,%20Nitin%20Agarwal)%20(Z-Library).pdf>)
 - [_The New Generative AI with LangChain Playbook_](./LLM/LangChain/The%20New%20Generative%20AI%20with%20LangChain%20Playbook%20--%20Bennett%20Kouri%20--%20d997d36b91bbcc18d2db319ffd141d06%20--%20Anna’s%20Archive.pdf)
 
 ### [Prompt Engineering](./LLM/prompt%20engineering)
