@@ -58,12 +58,12 @@
 
 ### [DeepSeek](./LLM/DeepSeek/)
 
-- [_AI 时代生存手册：零基础掌握 DeepSeek_](<./LLM/DeepSeek/AI时代生存手册：零基础掌握DeepSeek%20(秋叶；任泽岩；黄震炜)%20(Z-Library).epub>)
+- [《AI 时代生存手册：零基础掌握 DeepSeek》](<./LLM/DeepSeek/AI时代生存手册：零基础掌握DeepSeek%20(秋叶；任泽岩；黄震炜)%20(Z-Library).epub>)
 - [_DeepSeek: Master AI in 2025_](<./LLM/DeepSeek/DeepSeek%20Master%20AI%20in%202025%20–%20The%20Ultimate%20Guide%20to%20Outperform%20ChatGPT,%20Boost%20Productivity%20Future-Proof%20Your%20Skills%20Automate...%20(Sanchez,%20Cesar)%20(Z-Library).epub>)
 - [_DeepSeek R1 for Python Developers_](<./LLM/DeepSeek/DeepSeek%20R1%20for%20Python%20Developers%20Practical%20Projects%20and%20Advanced%20Techniques%20(Thao,%20Larry%20D)%20(Z-Library).epub>)
 - [_DeepSeek, the Artificial Intelligence that surpasses ChatGPT_](<./LLM/DeepSeek/DeepSeek,%20the%20Artificial%20Intelligence%20that%20surpasses%20ChatGPT%20Ultimate%20Guide%20to%20Mastering%20AI%20Earn%20Money%20Online%20Thanks%20to%20This...%20(Pineda,%20Léo%20Raphaël)%20(Z-Library).epub>)
-- [_DeepSeek 从入门到精通_](<./LLM/DeepSeek/DeepSeek从入门到精通%20(元宇宙文化实验室)%20(Z-Library).pdf>)
-- [_DeepSeek 从入门到精通（7 大场景 50 大案例 全套提示词）_](<./LLM/DeepSeek/DeepSeek从入门到精通（7大场景%2050大案例%20全套提示词）(Z-Library).pdf>)
+- [《DeepSeek 从入门到精通》](<./LLM/DeepSeek/DeepSeek从入门到精通%20(元宇宙文化实验室)%20(Z-Library).pdf>)
+- [《DeepSeek 从入门到精通（7 大场景 50 大案例 全套提示词）》](<./LLM/DeepSeek/DeepSeek从入门到精通（7大场景%2050大案例%20全套提示词）(Z-Library).pdf>)
 - [_Mastering DeepSeek AI: Step-by-Step Guide to the ChatGPT Challenger_](<./LLM/DeepSeek/Mastering%20DeepSeek%20AI%20Step-by-Step%20Guide%20to%20the%20ChatGPT%20Challenger%20(Mandal,%20Dr.%20Wasim%20Akram)%20(Z-Library).epub>)
 - [_Mastering DeepSeek-v3: Unlocking Advanced Features for Expert Users_](<./LLM/DeepSeek/Mastering%20DeepSeek-v3%20Unlocking%20Advanced%20Features%20for%20Expert%20Users%20(DeepSeek%20Book%20Series%20Mastering%20AI-Powered%20Search%202)%20(KITS%20FOR%20LIFE)%20(Z-Library).epub>)
 - [_Prompt Engineering with DeepSeek: Master AI for 10x Productivity and Effortless Income_](<./LLM/DeepSeek/Prompt%20Engineering%20with%20DeepSeek%20Master%20AI%20for%2010x%20Productivity%20and%20Effortless%20Income%20(Jain,%20Yash)%20(Z-Library).epub>)
