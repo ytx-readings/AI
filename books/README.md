@@ -150,5 +150,6 @@
 
 ## [System Design](./system%20design/)
 
+- [_Designing Machine Learning Systems: An Iterative Process_](./system%20design/Chip_Huyen_Designing_Machine_Learning_Systems_An_Iterative_Process.pdf)
 - [_Introduction to Machine Learning Systems_](./system%20design/Machine-Learning-Systems.pdf)
 - [_Machine Learning System Design: with end-to-end examples_](<./system%20design/Machine%20Learning%20System%20Design%20With%20end-to-end%20examples%20(Valerii%20Babushkin,%20Arseny%20Kravchenko)%20(Z-Library).pdf>)
