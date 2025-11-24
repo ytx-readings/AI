@@ -18,6 +18,7 @@
 - [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](./LLM/Megatron-LM.pdf)
 - [Qwen2.5-Coder Technical Report](./LLM/Qwen2.5-Coder%20Technical%20Report.pdf)
 - [SGLang: Efficient Execution of Structured Language Model Programs](./LLM/SGLang.pdf)
+- [The Illusion of Thinking](./LLM/the-illusion-of-thinking.pdf)
 - [The Ultimate Guide to Fine-Tuning LLMs from Basics to Breakthroughs: An Exhaustive Review of Technologies, Research, Best Practices, Applied Research Challenges and Opportunities](./LLM/The%20Ultimate%20Guide%20to%20Fine-Tuning%20LLMs%20from%20Basics%20to%20Breakthroughs.pdf)
 
 ## [Natural Language Processing](./natural%20language%20processing/)
