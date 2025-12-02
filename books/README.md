@@ -1,6 +1,6 @@
 # AI Books
 
-## [AI & society](./AI%20&%20society/)
+## [AI & Society](./AI%20&%20society/)
 
 - [_AI Superpowers: China, Silicon Valley, and the World Order_](<./AI%20&%20society/AI%20Superpowers%20China,%20Silicon%20Valley,%20and%20the%20New%20World%20Order%20(Lee,%20Kai-Fu)%20(Z-Library).epub>)
 - [_OpenAI - AI in the Enterprise_](./AI%20&%20society/OpenAI%20-%20AI%20in%20the%20Enterprise.pdf)
@@ -10,7 +10,7 @@
 - [_Agents_ (Google AI Agents Whitepaper)](./AI%20engineering/google-ai-agents-whitepaper.pdf)
 - [_AI Engineering: Building Applications with Foundation Models_](<./AI%20engineering/AI%20Engineering%20Building%20Applications%20with%20Foundation%20Models%20(Chip%20Huyen)%20(Z-Library).pdf>)
 
-## [Career development](./career%20development/)
+## [Career Development](./career%20development/)
 
 - [_How to Build Your Career in AI_](./career%20development/eBook-How-to-Build-a-Career-in-AI.pdf)
 
