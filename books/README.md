@@ -38,6 +38,7 @@
 
 ## [LLM](./LLM)
 
+- [_A Hands-On Guide to Fine-Tuning Large Language Models with PyTorch and Hugging Face_](<./LLM/A%20Hands-On%20Guide%20to%20Fine-Tuning%20Large%20Language%20Models%20with%20PyTorch%20and%20Hugging%20Face%20(Daniel%20Voigt%20Godoy)%20(Z-Library).pdf>)
 - [_Build a Large Language Model (From Scratch)_](<./LLM/Build%20a%20Large%20Language%20Model%20(From%20Scratch)%20(Sebastian%20Raschka)%20(Z-Library).pdf>)
 - [_Hands-On Large Language Models_](<./LLM/Hands-On%20Large%20Language%20Models%20Language%20Understanding%20and%20Generation%20(Jay%20Alammar,%20Maarten%20Grootendorst)%20(Z-Library).pdf>)
 - [_Hands-on Question Answering Systems with BERT_](<./LLM/Hands-on%20Question%20Answering%20Systems%20with%20BERT%20Applications%20in%20Neural%20Networks%20and%20Natural%20Language%20Processing%20(Navin%20Sabharwal%20Amit%20Agrawal)%20(Z-Library).pdf>)
