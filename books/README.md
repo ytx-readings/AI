@@ -9,6 +9,7 @@
 
 - [_Agentic Design Patterns_](<./AI%20agents/Agentic%20Design%20Patterns%20(Antonio%20Gullí)%20(Z-Library).pdf>)
 - [_AI Agents in Action_](./AI%20agents/ai-agents-in-action-book-from-zeeshan-ali-website.pdf)
+- [_Building Applications with AI Agents_](<./AI%20agents/Building%20Applications%20with%20AI%20Agents%20Designing%20and%20Implementing%20Multiagent%20Systems%20(Michael%20Albada)%20(Z-Library).pdf>)
 - [_Introduction to Agents_](./AI%20agents/Introduction%20to%20Agents.pdf)
 
 ## [AI Engineering](./AI%20engineering/)
