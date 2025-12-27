@@ -101,6 +101,9 @@
 - [_Building Transformer Models with Attention_](<./LLM/Transformer/Building%20Transformer%20Models%20with%20Attention%20Implementing%20a%20Neural%20Machine%20Translator%20from%20Scratch%20in%20Keras%20(Stefania%20Cristina,%20Mehreen%20Saeed)%20(Z-Library).pdf>)
 - [_Natural Language Processing with Transformers_](./LLM/Transformer/dokumen.pub_natural-language-processing-with-transformers-revised-edition-1098136799-9781098136796-9781098103248.pdf)
   - [Revised Edition](<./LLM/Transformer/Natural%20Language%20Processing%20with%20Transformers,%20Revised%20Edition%20(Lewis%20Tunstall,%20Leandro%20von%20Werra,%20Thomas%20Wolf)%20(Z-Library).pdf>)
+- [_Transformers for Machine Learning: A Deep Dive_](<./LLM/Transformer/Transformers%20for%20Machine%20Learning%20A%20Deep%20Dive%20(Uday%20Kamath)%20(Z-Library).pdf>)
+- [_Transformers for Natural Language Processing_](<./LLM/Transformer/Transformers%20for%20Natural%20Language%20Processing%20(Denis%20Rothman)%20(Z-Library).pdf>)
+- [_Transformers for Natural Language Processing and Computer Vision_ (Third Edition)](<./LLM/Transformer/Transformers%20for%20Natural%20Language%20Processing%20and%20Computer%20Vision%20-%20Third%20Edition%20(Denis%20Rothman)%20(Z-Library).pdf>)
 
 ## [Machine Learning](./machine%20learning/)
 
@@ -154,9 +157,6 @@
 - 《HuggingFace 自然语言处理详解——基于 BERT 中文模型的任务实战》([EPUB](<./natural%20language%20processing/HuggingFace自然语言处理详解——基于BERT中文模型的任务实战%20(李福林)%20(Z-Library).epub>), [PDF](<./natural%20language%20processing/HuggingFace自然语言处理详解——基于BERT中文模型的任务实战%20(李福林)%20(Z-Library).pdf>))
 - [_Natural Language Processing with PyTorch_](<./natural%20language%20processing/Natural%20Language%20Processing%20with%20PyTo...%20(Z-Library).pdf>)
 - [_Practical Natural Language Processing_](<./natural%20language%20processing/Practical%20Natural%20Language%20Processing%20A%20Comprehensive%20Guide%20to%20Building%20Real-World%20NLP%20Systems%20(Sowmya%20Vajjala,%20Bodhisattwa%20Majumder%20etc.)%20(Z-Library).pdf>)
-- [_Transformers for Machine Learning: A Deep Dive_](<./natural%20language%20processing/Transformers%20for%20Machine%20Learning%20A%20Deep%20Dive%20(Uday%20Kamath)%20(Z-Library).pdf>)
-- [_Transformers for Natural Language Processing_](<./natural%20language%20processing/Transformers%20for%20Natural%20Language%20Processing%20(Denis%20Rothman)%20(Z-Library).pdf>)
-- [_Transformers for Natural Language Processing and Computer Vision_ (Third Edition)](<./natural%20language%20processing/Transformers%20for%20Natural%20Language%20Processing%20and%20Computer%20Vision%20-%20Third%20Edition%20(Denis%20Rothman)%20(Z-Library).pdf>)
 - [《中文自然语言处理导论》](<./natural%20language%20processing/中文自然语言处理导论%20(徐睿峰，李斌阳，黄锦辉,%20黄锦辉%20(信息技术))%20(Z-Library).pdf>)
 
 ## [PyTorch](./PyTorch/)
