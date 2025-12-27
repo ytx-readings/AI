@@ -96,6 +96,10 @@
 - [_Prompt Engineering for LLMs_](<./LLM/prompt%20engineering/Prompt%20Engineering%20for%20LLMs%20The%20Art%20and%20Science%20of%20Building%20Large%20Language%20Model-Based%20Applications%20(John%20Berryman,%20Albert%20Ziegler)%20(Z-Library).pdf>)
 - [_The Art of Prompt Engineering with ChatGPT_](<./LLM/prompt%20engineering/The%20Art%20of%20Prompt%20Engineering%20with%20chatGPT%20A%20Hands-On%20Guide%20(Nathan%20Hunter)%20(Z-Library).pdf>)
 
+### [Transformer](./LLM/Transformer/)
+
+- [_Building Transformer Models with Attention_](<./LLM/Transformer/Building%20Transformer%20Models%20with%20Attention%20Implementing%20a%20Neural%20Machine%20Translator%20from%20Scratch%20in%20Keras%20(Stefania%20Cristina,%20Mehreen%20Saeed)%20(Z-Library).pdf>)
+
 ## [Machine Learning](./machine%20learning/)
 
 - [_AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence_](./intro/dokumen.pub_artificial-intelligence-a-guide-for-thinking-humans-978-0374257835.epub)
