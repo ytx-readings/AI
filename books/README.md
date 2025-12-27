@@ -33,6 +33,10 @@
 - [_Foundations of Computer Vision_ (Peters)](<./computer%20vision/Foundations%20of%20Computer%20Vision%20(James%20F.%20Peters).pdf>)
 - [_Foundations of Computer Vision_ (Torralba, Isola, etc.)](<./computer%20vision/Foundations%20of%20Computer%20Vision%20(Antonio%20Torralba,%20Phillip%20Isola%20etc.)%20(Z-Library).epub>)
 
+## [Generative AI](./generative%20AI/)
+
+- [_Generative AI in Action_](<./generative%20AI/Generative%20AI%20in%20Action%20(Amit%20Bahree)%20(Z-Library).pdf>)
+
 ## [Intro to AI](./intro/)
 
 - [_Artificial Intelligence: A Guide for Thinking Humans_](./intro/dokumen.pub_artificial-intelligence-a-guide-for-thinking-humans-978-0374257835.epub)
