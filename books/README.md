@@ -159,6 +159,7 @@
 
 - [_AI-Assisted Programming_](<./programming/AI-Assisted%20Programming%20Better%20Planning,%20Coding,%20Testing,%20and%20Deployment%20(Tom%20Taulli)%20(Z-Library).pdf>)
 - [_Beyond Vibe Coding_](<./programming/Beyond%20Vibe%20Coding%20From%20Coder%20to%20AI-Era%20Developer%20(Addy%20Osmani)%20(Z-Library).pdf>)
+- [_Low-Code AI_](./programming/dokumen.pub_low-code-ai-a-practical-project-driven-introduction-to-machine-learning-1nbsped-1098146824-9781098146825.pdf)
 - [_Supercharged Coding with GenAI_](./programming/dokumen.pub_supercharged-coding-with-genai-from-vibe-coding-to-best-practices-using-github-copilot-chatgpt-and-openai-1.pdf)
 
 ## [PyTorch](./PyTorch/)
