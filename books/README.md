@@ -21,11 +21,6 @@
 
 - [_How to Build Your Career in AI_](./career%20development/eBook-How-to-Build-a-Career-in-AI.pdf)
 
-## [Coding](./coding/)
-
-- [_Beyond Vibe Coding_](<./coding/Beyond%20Vibe%20Coding%20From%20Coder%20to%20AI-Era%20Developer%20(Addy%20Osmani)%20(Z-Library).pdf>)
-- [_Supercharged Coding with GenAI_](./coding/dokumen.pub_supercharged-coding-with-genai-from-vibe-coding-to-best-practices-using-github-copilot-chatgpt-and-openai-1.pdf)
-
 ## [Computer Vision](./computer%20vision/)
 
 - [_Deep Learning for Computer Vision_](./computer%20vision/Deep%20Learning%20for%20Computer%20Vision.pdf)
@@ -159,6 +154,12 @@
 - [_Natural Language Processing with PyTorch_](<./natural%20language%20processing/Natural%20Language%20Processing%20with%20PyTo...%20(Z-Library).pdf>)
 - [_Practical Natural Language Processing_](<./natural%20language%20processing/Practical%20Natural%20Language%20Processing%20A%20Comprehensive%20Guide%20to%20Building%20Real-World%20NLP%20Systems%20(Sowmya%20Vajjala,%20Bodhisattwa%20Majumder%20etc.)%20(Z-Library).pdf>)
 - [《中文自然语言处理导论》](<./natural%20language%20processing/中文自然语言处理导论%20(徐睿峰，李斌阳，黄锦辉,%20黄锦辉%20(信息技术))%20(Z-Library).pdf>)
+
+## [Programming](./programming/)
+
+- [_AI-Assisted Programming_](<./programming/AI-Assisted%20Programming%20Better%20Planning,%20Coding,%20Testing,%20and%20Deployment%20(Tom%20Taulli)%20(Z-Library).pdf>)
+- [_Beyond Vibe Coding_](<./programming/Beyond%20Vibe%20Coding%20From%20Coder%20to%20AI-Era%20Developer%20(Addy%20Osmani)%20(Z-Library).pdf>)
+- [_Supercharged Coding with GenAI_](./programming/dokumen.pub_supercharged-coding-with-genai-from-vibe-coding-to-best-practices-using-github-copilot-chatgpt-and-openai-1.pdf)
 
 ## [PyTorch](./PyTorch/)
 
