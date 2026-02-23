@@ -143,6 +143,10 @@
 - [_Mathematics for Machine Learning_](<./mathematics/Mathematics%20For%20Machine%20Learning%20(Marc%20Peter%20Deisenroth,%20A.%20Aldo%20Faisal%20etc.)%20(Z-Library).pdf>)
 - [《word2vec 中的数学》](<./mathematics/word2vec%20中的数学%20(it-ebooks)%20(Z-Library).pdf>)
 
+## [MCP](./MCP/)
+
+- [_The MCP Standard_](<./MCP/The%20MCP%20Standard%20A%20Developers%20Guide%20to%20Building%20Universal%20AI%20Tools%20with%20the%20Model%20Context%20Protocol%20(Srinivasan%20Sekar)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
+
 ## [_Multimedia Technology and Enhanced Learning_](./Multimedia%20Technology%20and%20Enhanced%20Learning/)
 
 ### [ICMTEL 2020](./Multimedia%20Technology%20and%20Enhanced%20Learning/2020)
