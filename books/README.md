@@ -139,6 +139,7 @@
 - [_Essential Math for AI_](<./mathematics/Essential%20Math%20for%20AI%20Next-Level%20Mathematics%20for%20Efficient%20and%20Successful%20AI%20Systems%20(Hala%20Nelson)%20(Z-Library).pdf>)
 - [_Essential Math for Data Science_](<./mathematics/Essential%20Math%20for%20Data%20Science%20Take%20Control%20of%20Your%20Data%20with%20Fundamental%20Linear%20Algebra,%20Probability,%20and%20Statistics,%20First…%20(Thomas%20Nield)%20(Z-Library).pdf>)
 - [_Math and Architectures of Deep Learning_](<./mathematics/Math%20and%20Architectures%20of%20Deep%20Learning%20(Krishnendu%20Chaudhury)%20(Z-Library).pdf>)
+- [_Mathematics for Artificial Intelligence_](<./mathematics/Mathematics%20for%20Artificial%20Intelligence%20(Jane%20Hawkins)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 - [_Math for Deep Learning_](<./mathematics/Math%20for%20Deep%20Learning%20What%20You%20Need%20to%20Know%20to%20Understand%20Neural%20Networks%20(Ronald%20T.%20Kneusel)%20(Z-Library).pdf>)
 - [_Mathematical Engineering of Deep Learning_](<./mathematics/Mathematical%20Engineering%20of%20Deep%20Learning%20(Benoit%20Liquet,%20Sarat%20Moka,%20Yoni%20Nazarathy)%20(Z-Library).pdf>)
 - [_Mathematical Foundations of Reinforcement Learning_](./mathematics/Mathematical%20Foundations%20of%20Reinforcement%20Learning.pdf)
