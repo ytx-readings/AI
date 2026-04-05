@@ -3,6 +3,7 @@
 ## [AI & Society](./AI%20&%20society/)
 
 - [_AI Superpowers: China, Silicon Valley, and the World Order_](<./AI%20&%20society/AI%20Superpowers%20China,%20Silicon%20Valley,%20and%20the%20New%20World%20Order%20(Lee,%20Kai-Fu)%20(Z-Library).epub>)
+- [_Integrating Human and Artificial Intelligence: Software in the Age of AI_](<./AI%20&%20society/Integrating%20Human%20and%20Artificial%20Intelligence%20Software%20in%20the%20Age%20of%20AI%20(Stephen%20K.%20Reed)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 - [_OpenAI - AI in the Enterprise_](./AI%20&%20society/OpenAI%20-%20AI%20in%20the%20Enterprise.pdf)
 
 ## [AI Agents](./AI%20agents/)
