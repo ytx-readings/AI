@@ -9,6 +9,7 @@
 ## [AI Agents](./AI%20agents/)
 
 - [_Agentic Design Patterns_](<./AI%20agents/Agentic%20Design%20Patterns%20(Antonio%20Gullí)%20(Z-Library).pdf>)
+- [_Agentic Mesh_](<./AI%20agents/Agentic%20Mesh%20The%20GenAI-Powered%20Autonomous%20Agent%20Ecosystem%20(Eric%20Broda,%20Davis%20Broda)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 - [_Agents_ (Google AI Agents Whitepaper)](./AI%20agents/google-ai-agents-whitepaper.pdf)
 - [_AI Agents in Action_](<./AI%20agents/AI%20Agents%20in%20Action%20(Micheal%20Lanham)%20(Z-Library).pdf>)
 - [_AI Agents: The Illustrated Guidebook_](./AI%20agents/AI_AGENTS_TheIllustratedGuidebook-compressed.pdf)
