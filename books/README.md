@@ -13,6 +13,7 @@
 - [_AI Agents: The Illustrated Guidebook_](./AI%20agents/AI_AGENTS_TheIllustratedGuidebook-compressed.pdf)
 - [_Building Applications with AI Agents_](<./AI%20agents/Building%20Applications%20with%20AI%20Agents%20Designing%20and%20Implementing%20Multiagent%20Systems%20(Michael%20Albada)%20(Z-Library).pdf>)
 - [_Introduction to Agents_](./AI%20agents/Introduction%20to%20Agents.pdf)
+- [_Mastering AI Agents_](<./AI%20agents/Mastering%20AI%20Agents%20A%20comprehensive%20guide%20for%20evaluating%20AI%20agents%20(Pratik%20Bhavsar)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 
 ## [AI Engineering](./AI%20engineering/)
 
