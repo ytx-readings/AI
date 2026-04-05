@@ -54,7 +54,6 @@
 - [_Large Language Models: A Deep Dive_](<./LLM/Large%20Language%20Models%20A%20Deep%20Dive%20Bridging%20Theory%20and%20Practice%20(Uday%20Kamath,%20Kevin%20Keenan,%20Garrett%20Somers%20etc.)%20(Z-Library).pdf>)
 - [_LLMs in Production_](<./LLM/LLMs%20in%20Production%20From%20language%20models%20to%20successful%20products%20(Christopher%20Brousseau,%20Matthew%20Sharp)%20(Z-Library).pdf>)
 - [_Mastering LLM Applications with LangChain and Hugging Face_](<./LLM/Mastering%20LLM%20Applications%20with%20LangChain%20and%20Hugging%20Face%20Practical%20insights%20into%20LLM%20deployment%20and%20use%20cases%20(Pathan,%20HunaidkhanGajjar%20etc.)%20(Z-Library).pdf>)
-- [_Prompting Guide 101_](./LLM/gemini-for-google-workspace-prompting-guide-101.pdf)
 - [_Transformer, BERT, and GPT Including ChatGPT and Prompt Engineering_](<./LLM/Transformer,%20BERT,%20and%20GPT%20Including%20ChatGPT%20and%20Prompt%20Engineering%20(MLI%20Generative%20AI%20Series)%20(Oswald%20Campesato)%20(Z-Library).pdf>)
 - [《大语言模型》 _The Chinese Book for Large Language Models_](./LLM/LLMBook.pdf)
 
@@ -98,7 +97,8 @@
 
 - [_ChatGPT: Learning Prompt Engineering with 100+ Examples_](./LLM/prompt%20engineering/ChatGPТ%20learning%20prompt%20engineering%20with%20100+%20examples.pdf)
 - [_Prompt Engineering for Generative AI_](<./LLM/prompt%20engineering/Prompt%20Engineering%20for%20Generative%20AI%20Future-Proof%20Inputs%20for%20Reliable%20Al%20Outputs%20(James%20Phoenix,%20Mike%20Taylor)%20(Z-Library).pdf>)
-- [_Prompt Engineering for LLMs_](<./LLM/prompt%20engineering/Prompt%20Engineering%20for%20LLMs%20The%20Art%20and%20Science%20of%20Building%20Large%20Language%20Model-Based%20Applications%20(John%20Berryman,%20Albert%20Ziegler)%20(Z-Library).pdf>)
+- [_Prompt Enginering for LLMs_](<./LLM/prompt%20engineering/Prompt%20Engineering%20for%20LLMs%20The%20Art%20and%20Science%20of%20Building%20Large%20Language%20Model-Based%20Applications%20(John%20Berryman,%20Albert%20Ziegler)%20(Z-Library).pdf>)
+- [_Prompting Guide 101_](./LLM/prompt%20engineering/gemini-for-google-workspace-prompting-guide-101.pdf)
 - [_The Art of Prompt Engineering with ChatGPT_](<./LLM/prompt%20engineering/The%20Art%20of%20Prompt%20Engineering%20with%20chatGPT%20A%20Hands-On%20Guide%20(Nathan%20Hunter)%20(Z-Library).pdf>)
 
 ### [Transformer](./LLM/Transformer/)
