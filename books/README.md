@@ -23,6 +23,11 @@
 
 - [_How to Build Your Career in AI_](./career%20development/eBook-How-to-Build-a-Career-in-AI.pdf)
 
+## [Claude](./Claude/)
+
+- [_Claude Code_](<./Claude/Claude%20Code%20The%20Definitive%20Guide%20to%20Agentic%20Development%20(Written%20by%20Claude%20Code%20etc.)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
+- [_Mastering Claude AI_](<./Claude/Mastering%20Claude%20AI%20Practical%20Journey%20from%20First%20Prompts%20to%20Pro%20with%20Claude%20AI%20(Ryan%20Dickey)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
+
 ## [Computer Vision](./computer%20vision/)
 
 - [_Deep Learning for Computer Vision_](./computer%20vision/Deep%20Learning%20for%20Computer%20Vision.pdf)
