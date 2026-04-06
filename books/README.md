@@ -181,6 +181,7 @@
 - [_Beyond Vibe Coding_](<./programming/Beyond%20Vibe%20Coding%20From%20Coder%20to%20AI-Era%20Developer%20(Addy%20Osmani)%20(Z-Library).pdf>)
 - [_Low-Code AI_](./programming/dokumen.pub_low-code-ai-a-practical-project-driven-introduction-to-machine-learning-1nbsped-1098146824-9781098146825.pdf)
 - [_Supercharged Coding with GenAI_](./programming/dokumen.pub_supercharged-coding-with-genai-from-vibe-coding-to-best-practices-using-github-copilot-chatgpt-and-openai-1.pdf)
+- [_Vibe Coeding with Cursor, Windsurf, and Lovable_](<./programming/Vibe%20Coding%20with%20Cursor,%20Windsurf,%20and%20Lovable%20%20Build%20Apps%20Fast%20with%20AI-Assisted%20Software%20Development%20and%20Testing%20(Greg%20Lim)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 
 ## [PyTorch](./PyTorch/)
 
