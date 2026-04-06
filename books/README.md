@@ -57,6 +57,7 @@
 - [_Large Language Models: Concepts, Techniques, and Applications_](<./LLM/Large%20Language%20Models%20Concepts,%20Techniques%20and%20Applications%20(John%20Atkinson‐Abutridy)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 - [_LLMs in Production_](<./LLM/LLMs%20in%20Production%20From%20language%20models%20to%20successful%20products%20(Christopher%20Brousseau,%20Matthew%20Sharp)%20(Z-Library).pdf>)
 - [_Mastering LLM Applications with LangChain and Hugging Face_](<./LLM/Mastering%20LLM%20Applications%20with%20LangChain%20and%20Hugging%20Face%20Practical%20insights%20into%20LLM%20deployment%20and%20use%20cases%20(Pathan,%20HunaidkhanGajjar%20etc.)%20(Z-Library).pdf>)
+- [_The Practical Guide to Large Language Models_](<./LLM/The%20Practical%20Guide%20to%20Large%20Language%20Models%20Hands-On%20AI%20Applications%20with%20Hugging%20Face%20Transformers%20(Ivan%20Gridin)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 - [_Transformer, BERT, and GPT Including ChatGPT and Prompt Engineering_](<./LLM/Transformer,%20BERT,%20and%20GPT%20Including%20ChatGPT%20and%20Prompt%20Engineering%20(MLI%20Generative%20AI%20Series)%20(Oswald%20Campesato)%20(Z-Library).pdf>)
 - [《大语言模型》 _The Chinese Book for Large Language Models_](./LLM/LLMBook.pdf)
 
