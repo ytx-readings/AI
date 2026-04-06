@@ -112,6 +112,7 @@
 - [_Transformers for Machine Learning: A Deep Dive_](<./LLM/Transformer/Transformers%20for%20Machine%20Learning%20A%20Deep%20Dive%20(Uday%20Kamath)%20(Z-Library).pdf>)
 - [_Transformers for Natural Language Processing_](<./LLM/Transformer/Transformers%20for%20Natural%20Language%20Processing%20(Denis%20Rothman)%20(Z-Library).pdf>)
 - [_Transformers for Natural Language Processing and Computer Vision_ (Third Edition)](<./LLM/Transformer/Transformers%20for%20Natural%20Language%20Processing%20and%20Computer%20Vision%20-%20Third%20Edition%20(Denis%20Rothman)%20(Z-Library).pdf>)
+- [_Transformers: The Definitive Guide_](<./LLM/Transformer/Transformers%20-%20The%20Definitive%20Guide%20Applications%20Beyond%20NLP%20(Nicole%20Koenigstein)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf>)
 
 ## [Machine Learning](./machine%20learning/)
 
